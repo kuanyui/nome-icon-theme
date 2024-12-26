@@ -1,0 +1,8 @@
+[*.svg]
+indent_style = space
+indent_size = 2
+
+[*.ts, *.js]
+indent_style = space
+indent_size = 2
+
