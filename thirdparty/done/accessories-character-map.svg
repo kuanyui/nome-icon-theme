@@ -2,26 +2,26 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="300"
    id="svg11300"
    inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="accessories-character-map.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
    version="1.0"
-   width="400">
+   width="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata217">
     <rdf:RDF>
@@ -63,7 +63,9 @@
      width="400px"
      inkscape:window-maximized="1"
      inkscape:bbox-nodes="false"
-     inkscape:object-nodes="true">
+     inkscape:object-nodes="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        enabled="true"
        id="grid5883"
@@ -72,7 +74,10 @@
        type="xygrid"
        visible="true"
        empspacing="4"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -191,7 +196,11 @@
     </clipPath>
     <filter
        inkscape:collect="always"
-       id="filter5026">
+       id="filter5026"
+       x="-0.014609927"
+       y="-0.01394584"
+       width="1.0292199"
+       height="1.0278917">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.43000004"
@@ -262,7 +271,7 @@
        id="filter6114-3-5"
        x="-0.15774648"
        width="1.315493"
-       y="-0.043021768"
+       y="-0.043021766"
        height="1.0860435">
       <feGaussianBlur
          inkscape:collect="always"
@@ -273,10 +282,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter6102-4"
-       x="-0.13160211"
-       width="1.2632042"
-       y="-0.077035382"
-       height="1.1540709">
+       x="-0.14037558"
+       width="1.2807512"
+       y="-0.077035381"
+       height="1.1540708">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.3160211"
@@ -286,10 +295,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter6102-0-0"
-       x="-0.13160211"
-       width="1.2632042"
-       y="-0.077035382"
-       height="1.1540709">
+       x="-0.15838865"
+       width="1.3124517"
+       y="-0.080151692"
+       height="1.1670161">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.3160211"
@@ -297,7 +306,11 @@
     </filter>
     <filter
        inkscape:collect="always"
-       id="filter3998">
+       id="filter3998"
+       x="-0.049171061"
+       y="-0.046883424"
+       width="1.0983421"
+       height="1.0937668">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="3.4381177"
@@ -610,7 +623,7 @@
        id="filter6114-3-5-4"
        x="-0.15774648"
        width="1.315493"
-       y="-0.043021768"
+       y="-0.043021766"
        height="1.0860435">
       <feGaussianBlur
          inkscape:collect="always"
@@ -642,10 +655,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter6102-4-2"
-       x="-0.13160211"
-       width="1.2632042"
-       y="-0.077035382"
-       height="1.1540709">
+       x="-0.14037558"
+       width="1.2807512"
+       y="-0.077035381"
+       height="1.1540708">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.3160211"
@@ -664,10 +677,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter6102-0-0-7"
-       x="-0.13160211"
-       width="1.2632042"
-       y="-0.077035382"
-       height="1.1540709">
+       x="-0.20809813"
+       width="1.3973641"
+       y="-0.090602558"
+       height="1.2104297">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.3160211"
@@ -769,7 +782,11 @@
        inkscape:collect="always" />
     <filter
        inkscape:collect="always"
-       id="filter4575">
+       id="filter4575"
+       x="-0.074428753"
+       y="-0.072613432"
+       width="1.1488575"
+       height="1.1452269">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.81000008"
@@ -905,7 +922,7 @@
        id="filter6114-3-5-4-9"
        x="-0.15774648"
        width="1.315493"
-       y="-0.043021768"
+       y="-0.043021766"
        height="1.0860435">
       <feGaussianBlur
          inkscape:collect="always"
@@ -937,10 +954,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter6102-4-2-0"
-       x="-0.13160211"
-       width="1.2632042"
-       y="-0.077035382"
-       height="1.1540709">
+       x="-0.14037558"
+       width="1.2807512"
+       y="-0.077035381"
+       height="1.1540708">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.3160211"
@@ -959,10 +976,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter6102-0-0-7-1"
-       x="-0.13160211"
-       width="1.2632042"
-       y="-0.077035382"
-       height="1.1540709">
+       x="-0.23976486"
+       width="1.4514564"
+       y="-0.097260135"
+       height="1.2380858">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.3160211"
@@ -1043,7 +1060,11 @@
        inkscape:collect="always" />
     <filter
        inkscape:collect="always"
-       id="filter4904">
+       id="filter4904"
+       x="-0.08709028"
+       y="-0.083864714"
+       width="1.1741806"
+       height="1.1677294">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.52999998"
@@ -1157,9 +1178,9 @@
     <filter
        inkscape:collect="always"
        id="filter55627"
-       x="-0.083076923"
+       x="-0.083076925"
        width="1.1661538"
-       y="-0.29454545"
+       y="-0.29454546"
        height="1.5890909">
       <feGaussianBlur
          inkscape:collect="always"
@@ -1220,19 +1241,19 @@
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="20.970737"
-           y="21.513618">apps</tspan></text>
+           y="21.513618"
+           style="font-size:18.3007px;line-height:1.25">apps</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="121.97073"
          xml:space="preserve"
          y="21.513618"><tspan
@@ -1240,7 +1261,7 @@
            sodipodi:role="line"
            x="121.97073"
            y="21.513618"
-           style="font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">accessories-character-map</tspan></text>
+           style="font-size:18.3007px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">accessories-character-map</tspan></text>
       <rect
          y="36"
          x="16"
@@ -1345,7 +1366,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-size:43.76055908px;font-style:normal;font-weight:normal;fill:#1c1f20;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#1c1f20;fill-opacity:1;stroke:none;enable-background:new"
          x="316.69675"
          y="188.8266"
          id="text4275"
@@ -1354,7 +1375,7 @@
            id="tspan4277"
            x="316.69675"
            y="188.8266"
-           style="font-size:10.94013977px;fill:#1c1f20;fill-opacity:1">à</tspan></text>
+           style="font-size:10.9401px;line-height:1.25;fill:#1c1f20;fill-opacity:1">à</tspan></text>
       <g
          style="display:inline;enable-background:new"
          transform="matrix(0.651482,0,0,0.622168,300.90869,217.6674)"
@@ -1651,7 +1672,7 @@
          height="26" />
       <text
          xml:space="preserve"
-         style="font-size:39.48077393px;font-style:normal;font-weight:normal;fill:#2e3436;fill-opacity:1;stroke:#d3d7cf;stroke-width:1;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#2e3436;fill-opacity:1;stroke:#d3d7cf;stroke-width:1;enable-background:new"
          x="324.03601"
          y="77.695"
          id="text4908-0"
@@ -1660,10 +1681,10 @@
            id="tspan4910-2"
            x="324.03601"
            y="77.695"
-           style="font-size:19.74038696px;fill:#2e3436;stroke:#d3d7cf;stroke-width:1">à</tspan></text>
+           style="font-size:19.7404px;line-height:1.25;fill:#2e3436;stroke:#d3d7cf;stroke-width:1">à</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:39.48077393px;font-style:normal;font-weight:normal;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#2e3436;fill-opacity:1;stroke:none;enable-background:new"
          x="324.03601"
          y="77.695"
          id="text4908"
@@ -1672,10 +1693,10 @@
            id="tspan4910"
            x="324.03601"
            y="77.695"
-           style="font-size:19.74038696px;fill:#2e3436">à</tspan></text>
+           style="font-size:19.7404px;line-height:1.25;fill:#2e3436">à</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;fill:#2e3436;fill-opacity:1;stroke:#d3d7cf;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#2e3436;fill-opacity:1;stroke:#d3d7cf;enable-background:new"
          x="317.69238"
          y="145.80176"
          id="text4937-1"><tspan
@@ -1683,10 +1704,10 @@
            id="tspan4939-5"
            x="317.69238"
            y="145.80176"
-           style="font-size:14px;fill:#2e3436;stroke:#d3d7cf">à</tspan></text>
+           style="font-size:14px;line-height:1.25;fill:#2e3436;stroke:#d3d7cf">à</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-weight:normal;fill:#2e3436;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#2e3436;fill-opacity:1;stroke:none;enable-background:new"
          x="317.69238"
          y="145.80176"
          id="text4937"><tspan
@@ -1694,7 +1715,7 @@
            id="tspan4939"
            x="317.69238"
            y="145.80176"
-           style="font-size:14px;fill:#2e3436">à</tspan></text>
+           style="font-size:14px;line-height:1.25;fill:#2e3436">à</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1804,9 +1825,9 @@
            id="text4041-3"
            y="190.98047"
            x="150.41797"
-           style="font-size:40px;font-style:normal;font-weight:normal;fill:#2e3436;fill-opacity:1;stroke:#d3d7cf;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#2e3436;fill-opacity:1;stroke:#d3d7cf;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
            xml:space="preserve"><tspan
-             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;stroke:#d3d7cf;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#2e3436;stroke:#d3d7cf;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none"
              y="190.98047"
              x="150.41797"
              id="tspan4043-2"
@@ -1815,9 +1836,9 @@
            id="text4041"
            y="190.98047"
            x="150.41797"
-           style="font-size:40px;font-style:normal;font-weight:normal;fill:#2e3436;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#2e3436;fill-opacity:1;stroke:none"
            xml:space="preserve"><tspan
-             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2e3436;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#2e3436"
              y="190.98047"
              x="150.41797"
              id="tspan4043"
