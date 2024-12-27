@@ -5,6 +5,3 @@ merge-to-src:
 
 init-workspace:
 	python3 ./script/gen_template.py
-
-clear-workspace:
-	rm -rf ./workspace/__prefix__
