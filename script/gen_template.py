@@ -45,9 +45,9 @@ def init_workspace() -> None:
                     continue
                 context_name = str(tspan_node.nodeValue)
         rects = baseplate.getElementsByTagName('rect')
-        print('=================================================================')
-        print(f' (inkscape `find workspace/__prefix__ -name "{icon_name}.svg"`) &')
-        print('=================================================================')
+        print('==============================================================================================')
+        print(f' (inkscape `find workspace/__prefix__ -name "{icon_name}.svg" | sort`) &')
+        print('==============================================================================================')
         for rect in rects:
             size_label = rect.getAttribute('inkscape:label')
             if size_label not in ['16x16', '22x22', '24x24', '32x32', '48x48']:
