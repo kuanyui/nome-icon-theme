@@ -32,7 +32,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="svg1"
+     showgrid="true" />
   <defs
      id="defs1">
     <linearGradient
@@ -174,22 +175,10 @@
        inkscape:collect="always"
        gradientTransform="translate(-1,66)" />
   </defs>
-  <rect
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffd5d5;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
-     id="rect10672-9"
-     width="21.930731"
-     height="21.962135"
-     x="5.0346346"
-     y="5.0189323"
-     rx="4.6893406"
-     ry="4.6893406"
-     clip-path="none"
-     mask="none"
-     sodipodi:insensitive="true" />
   <g
      id="g2"
      style="display:inline;enable-background:new"
-     transform="translate(-302.46537,174.48107)">
+     transform="translate(-303,174)">
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
        id="rect3372-4"
