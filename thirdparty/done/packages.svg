@@ -2,26 +2,26 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="300"
    id="svg11300"
    inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="packages.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
    version="1.0"
-   width="800">
+   width="800"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata106">
     <rdf:RDF>
@@ -68,7 +68,7 @@
      guidetolerance="13"
      height="300px"
      id="base"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer2"
      inkscape:cx="306.79645"
      inkscape:cy="14.256154"
      inkscape:document-units="px"
@@ -93,7 +93,9 @@
      inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        enabled="true"
        id="grid5883"
@@ -101,7 +103,10 @@
        spacingy="1px"
        type="xygrid"
        visible="true"
-       empspacing="4" />
+       empspacing="4"
+       originx="0"
+       originy="0"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -470,7 +475,7 @@
        id="filter3736"
        x="-0.121875"
        width="1.24375"
-       y="-0.039795917"
+       y="-0.039795918"
        height="1.0795918">
       <feGaussianBlur
          inkscape:collect="always"
@@ -512,7 +517,11 @@
     </linearGradient>
     <filter
        inkscape:collect="always"
-       id="filter3684">
+       id="filter3684"
+       x="-0.032937501"
+       y="-0.010755102"
+       width="1.065875"
+       height="1.0215102">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.335"
@@ -945,7 +954,11 @@
     </pattern>
     <filter
        id="filter7510"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       x="-0.05982244"
+       y="-0.11623379"
+       width="1.1196449"
+       height="1.2324676">
       <feGaussianBlur
          id="feGaussianBlur7512"
          stdDeviation="2.4684546"
@@ -953,10 +966,10 @@
     </filter>
     <filter
        id="filter7408"
-       height="1.2543157"
-       y="-0.12715784"
-       width="1.1317589"
-       x="-0.065879472"
+       height="1.3051788"
+       y="-0.1525894"
+       width="1.161511"
+       x="-0.08075548"
        inkscape:collect="always">
       <feGaussianBlur
          id="feGaussianBlur7410"
@@ -1394,7 +1407,11 @@
     </clipPath>
     <filter
        inkscape:collect="always"
-       id="filter3403">
+       id="filter3403"
+       x="-0.033207937"
+       y="-0.032554152"
+       width="1.0675188"
+       height="1.0651086">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2.1614063"
@@ -1412,7 +1429,11 @@
        y2="76.67421" />
     <filter
        inkscape:collect="always"
-       id="filter3515">
+       id="filter3515"
+       x="-0.015239568"
+       y="-0.056411264"
+       width="1.0304791"
+       height="1.1128225">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.2808222"
@@ -1421,10 +1442,10 @@
     <filter
        inkscape:collect="always"
        id="filter3519"
-       x="-0.088411674"
-       width="1.1768233"
-       y="-0.31566298"
-       height="1.631326">
+       x="-0.088411449"
+       width="1.1768229"
+       y="-0.31557694"
+       height="1.6311539">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="7.5339885"
@@ -1433,10 +1454,10 @@
     <filter
        inkscape:collect="always"
        id="filter3941"
-       x="-0.15636364"
-       width="1.3127273"
-       y="-0.51600009"
-       height="2.0320003">
+       x="-0.17834653"
+       width="1.3583072"
+       y="-0.62888899"
+       height="2.257778">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="2.1499999"
@@ -1445,10 +1466,10 @@
     <filter
        inkscape:collect="always"
        id="filter4039"
-       x="-0.031272724"
-       width="1.0625455"
-       y="-0.10320002"
-       height="1.2064">
+       x="-0.05514424"
+       width="1.1124499"
+       y="-0.18906197"
+       height="1.3781239">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.42999998"
@@ -1510,10 +1531,10 @@
     <filter
        inkscape:collect="always"
        id="filter4140"
-       x="-0.11789928"
-       width="1.2357986"
-       y="-0.38033009"
-       height="1.7606602">
+       x="-0.14570456"
+       width="1.2935706"
+       y="-0.51105433"
+       height="2.0221087">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.6374711"
@@ -1640,9 +1661,9 @@
     <filter
        inkscape:collect="always"
        id="filter4363"
-       x="-0.12969087"
-       width="1.2593817"
-       y="-0.29407713"
+       x="-0.12969088"
+       width="1.2593818"
+       y="-0.29407715"
        height="1.5881543">
       <feGaussianBlur
          inkscape:collect="always"
@@ -2422,7 +2443,7 @@
          height="48"
          id="rect6284"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="296"
          y="50" />
@@ -2430,7 +2451,7 @@
          height="32"
          id="rect6592"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="303"
          y="126" />
@@ -2438,7 +2459,7 @@
          height="24"
          id="rect8104"
          inkscape:label="24x24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:none;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="24"
          x="302"
          y="176" />
@@ -2446,7 +2467,7 @@
          height="22"
          id="rect6749"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="303"
          y="177" />
@@ -2454,7 +2475,7 @@
          height="16"
          id="rect6833"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="303"
          y="219" />
@@ -2462,33 +2483,34 @@
          height="256"
          id="rect6282"
          inkscape:label="256x256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="256"
          x="20"
          y="30" />
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="20.970737"
-           y="21.513618">mimetypes</tspan></text>
+           y="21.513618"
+           style="font-size:18.3007px;line-height:1.25">mimetypes</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="191.97073"
-           y="21.513618">package-x-generic</tspan></text>
+           y="21.513618"
+           style="font-size:18.3007px;line-height:1.25">package-x-generic</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -3206,14 +3228,14 @@
     <g
        inkscape:groupmode="layer"
        id="layer5"
-       inkscape:label="baseplate#1"
+       inkscape:label="baseplate"
        style="display:none"
        sodipodi:insensitive="true">
       <rect
          height="48"
          id="rect2962"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="696"
          y="50" />
@@ -3221,7 +3243,7 @@
          height="32"
          id="rect2964"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="703"
          y="126" />
@@ -3229,7 +3251,7 @@
          height="24"
          id="rect2966"
          inkscape:label="24x24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="24"
          x="702"
          y="176" />
@@ -3237,7 +3259,7 @@
          height="22"
          id="rect2968"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="703"
          y="177" />
@@ -3245,7 +3267,7 @@
          height="16"
          id="rect2970"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="703"
          y="219" />
@@ -3253,33 +3275,34 @@
          height="256"
          id="rect2972"
          inkscape:label="256x256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="256"
          x="420"
          y="30" />
       <text
          id="text2974"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="420.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan2976"
            sodipodi:role="line"
            x="420.97073"
-           y="21.513618">emblems</tspan></text>
+           y="21.513618"
+           style="font-size:18.3007px;line-height:1.25">emblems</tspan></text>
       <text
          id="text2978"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="591.9707"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan2980"
            sodipodi:role="line"
            x="591.9707"
-           y="21.513618">emblem-package</tspan></text>
+           y="21.513618"
+           style="font-size:18.3007px;line-height:1.25">emblem-package</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
