@@ -26,7 +26,7 @@ def init_workspace() -> None:
     context_name = ''
     baseplates: List[minidom.Element] = []
     for g in dom.getElementsByTagName("g"):
-        if g.getAttribute("inkscape:label") == "baseplate":
+        if g.getAttribute("inkscape:label").startswith("baseplate"):
             baseplates.append(g)
 
     for baseplate in baseplates:
