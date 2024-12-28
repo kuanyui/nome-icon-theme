@@ -2,26 +2,26 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="300"
    id="svg11300"
    inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="preferences-desktop-theme.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
    version="1.0"
-   width="400">
+   width="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title8836">Optical Drive</title>
   <metadata
@@ -32,7 +32,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Optical Drive</dc:title>
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -60,7 +60,7 @@
      guidetolerance="13"
      height="300px"
      id="base"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      inkscape:cx="9.8452075"
      inkscape:cy="81.942684"
      inkscape:document-units="px"
@@ -82,7 +82,9 @@
      showguides="true"
      stroke="#ef2929"
      width="400px"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        empspacing="4"
        enabled="true"
@@ -91,7 +93,10 @@
        spacingy="1px"
        type="xygrid"
        visible="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -574,9 +579,9 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter4184-1"
-       x="-0.059999999"
+       x="-0.06"
        width="1.12"
-       y="-0.23999999"
+       y="-0.24"
        height="1.48">
       <feGaussianBlur
          inkscape:collect="always"
@@ -726,9 +731,9 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter4718-6"
-       x="-0.075000003"
+       x="-0.075"
        width="1.15"
-       y="-0.30000001"
+       y="-0.3"
        height="1.6">
       <feGaussianBlur
          inkscape:collect="always"
@@ -803,7 +808,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4343-3-9-5-0">
+       id="filter4343-3-9-5-0"
+       x="-0.004872549"
+       y="-0.022590909"
+       width="1.0097451"
+       height="1.0451818">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.31"
@@ -880,7 +889,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4343-3-9-6">
+       id="filter4343-3-9-6"
+       x="-0.004872549"
+       y="-0.022590909"
+       width="1.0097451"
+       height="1.0451818">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.31"
@@ -957,7 +970,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4343-3-0">
+       id="filter4343-3-0"
+       x="-0.004872549"
+       y="-0.022590909"
+       width="1.0097451"
+       height="1.0451818">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.31"
@@ -1034,7 +1051,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4343-5">
+       id="filter4343-5"
+       x="-0.004872549"
+       y="-0.022590909"
+       width="1.0097451"
+       height="1.0451818">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.31"
@@ -1097,7 +1118,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4343-8-6">
+       id="filter4343-8-6"
+       x="-0.004872549"
+       y="-0.022590909"
+       width="1.0097451"
+       height="1.0451818">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.31"
@@ -1160,7 +1185,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4343-8-3-7">
+       id="filter4343-8-3-7"
+       x="-0.004872549"
+       y="-0.022590909"
+       width="1.0097451"
+       height="1.0451818">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.31"
@@ -1233,7 +1262,11 @@
        gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:collect="always"
-       id="filter7047">
+       id="filter7047"
+       x="-0.0075333333"
+       y="-0.1695"
+       width="1.0150667"
+       height="1.339">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.565"
@@ -1251,9 +1284,9 @@
     <filter
        inkscape:collect="always"
        id="filter7288"
-       x="-0.036470588"
+       x="-0.036470587"
        width="1.0729412"
-       y="-0.16909091"
+       y="-0.1690909"
        height="1.3381818">
       <feGaussianBlur
          inkscape:collect="always"
@@ -1282,9 +1315,9 @@
     <filter
        inkscape:collect="always"
        id="filter7357"
-       x="-0.16909091"
+       x="-0.1690909"
        width="1.3381818"
-       y="-0.036470588"
+       y="-0.036470587"
        height="1.0729412">
       <feGaussianBlur
          inkscape:collect="always"
@@ -1321,7 +1354,11 @@
     </clipPath>
     <filter
        inkscape:collect="always"
-       id="filter7434">
+       id="filter7434"
+       x="-0.073451546"
+       y="-0.050712727"
+       width="1.1469031"
+       height="1.1014255">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="3.9973295"
@@ -1348,7 +1385,11 @@
     </clipPath>
     <filter
        inkscape:collect="always"
-       id="filter7503">
+       id="filter7503"
+       x="-0.050712728"
+       y="-0.073451546"
+       width="1.1014255"
+       height="1.1469031">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="3.9973294"
@@ -1443,12 +1484,12 @@
      id="layer6"
      inkscape:groupmode="layer"
      inkscape:label="baseplate"
-     style="display:none">
+     style="display:inline">
     <rect
        height="48"
        id="rect6284"
        inkscape:label="48x48"
-       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        width="48"
        x="296"
        y="50" />
@@ -1456,7 +1497,7 @@
        height="32"
        id="rect6592"
        inkscape:label="32x32"
-       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        width="32"
        x="303"
        y="126" />
@@ -1464,7 +1505,7 @@
        height="24"
        id="rect6749-8"
        inkscape:label="24x24"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        width="24"
        x="302"
        y="176" />
@@ -1472,7 +1513,7 @@
        height="22"
        id="rect6749"
        inkscape:label="22x22"
-       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        width="22"
        x="303"
        y="177" />
@@ -1480,35 +1521,36 @@
        height="16"
        id="rect6833"
        inkscape:label="16x16"
-       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        width="16"
        x="303"
        y="219" />
     <text
        id="context"
        inkscape:label="context"
-       style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="20.970737"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan2716"
          sodipodi:role="line"
          x="20.970737"
-         y="21.513618">apps</tspan></text>
+         y="21.513618"
+         style="font-size:18.3007px;line-height:1.25">apps</tspan></text>
     <text
        id="icon-name"
        inkscape:label="icon-name"
-       sodipodi:linespacing="125%"
-       style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
        x="191.97073"
        xml:space="preserve"
        y="21.513618"><tspan
          id="tspan3023"
          sodipodi:role="line"
          x="191.97073"
-         y="21.513618">preferences-desktop-theme</tspan></text>
+         y="21.513618"
+         style="font-size:18.3007px;line-height:1.25">preferences-desktop-theme</tspan></text>
     <rect
-       style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        id="rect3007"
        width="256"
        height="256"
@@ -1516,8 +1558,8 @@
        y="28"
        inkscape:label="this is unneeded even" />
     <path
-       style="opacity:0.29455285;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 20.0625,28 0,238 0,18 237.9375,0 18,0 0.0625,0 0,-18 -0.0625,0 0,-238 -18,0 0,238 -219.9375,0 0,-238 -18,0 z"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.294553;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       d="m 20.0625,28 v 238 18 H 258 h 18 0.0625 V 266 H 276 V 28 H 258 V 266 H 38.0625 V 28 Z"
        id="rect3068-1"
        inkscape:connector-curvature="0" />
   </g>

@@ -32,7 +32,23 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <linearGradient
@@ -721,7 +737,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       transform="matrix(0.12559867,0,0,0.11649654,-10.210706,2.4114356)"
+       transform="matrix(0.12559867,0,0,0.11649654,-10.268234,2.4051974)"
        style="display:inline"
        id="g13690">
       <g
@@ -794,7 +810,7 @@
     </g>
     <g
        id="g11778"
-       transform="matrix(0.18455083,0,0,0.18455083,20.568143,20.030676)"
+       transform="matrix(0.18455083,0,0,0.18455083,20.510615,20.024438)"
        style="display:inline">
       <rect
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient11916);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
@@ -1123,12 +1139,12 @@
     <path
        sodipodi:nodetypes="ccccsccc"
        id="path13702-0"
-       d="m 11.576433,5.5243656 -6.9932877,-0.0462 -0.0425,-0.89231 c 0,-0.50769 0.46788,-1.06154 0.97831,-1.06154 h 5.1429677 c 0.68926,0 0.91451,0.43846 0.91451,1.08462 v 0.91538 z"
+       d="m 11.518905,5.5181274 -6.993288,-0.0462 -0.0425,-0.89231 c 0,-0.50769 0.46788,-1.06154 0.97831,-1.06154 h 5.142968 c 0.68926,0 0.91451,0.43846 0.91451,1.08462 v 0.91538 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#babdb6;stroke:#a3a3a3;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <path
        sodipodi:nodetypes="cccsccc"
        id="path13702-0-9"
-       d="m 21.576433,5.5243656 -3.99329,-0.0462 c 0,0 -0.0642,-1.95385 -0.0642,-1.95385 h 3.14297 c 0.68926,0 0.91451,0.43846 0.91451,1.08462 v 0.91538 5e-5 z"
+       d="m 21.518905,5.5181274 -3.99329,-0.0462 c 0,0 -0.0642,-1.95385 -0.0642,-1.95385 h 3.14297 c 0.68926,0 0.91451,0.43846 0.91451,1.08462 v 0.91538 5e-5 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#babdb6;stroke:#a3a3a3;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
   </g>
 </svg>

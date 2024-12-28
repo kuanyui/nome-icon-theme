@@ -32,7 +32,23 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <radialGradient
@@ -197,7 +213,7 @@
     <g
        id="g48"
        style="display:inline;enable-background:new"
-       transform="translate(0.28508667,-1.027728)">
+       transform="translate(0,-1)">
       <path
          d="M 2.0076926,29.502972 C 1.5682166,28.703734 20.099451,22.877033 21.564371,22.928597 H 32.33153 L 34.382419,26.71853 42,36 H 28.742477 C 21.955015,36 1.9832772,31.668648 2.0076926,29.502972 Z"
          id="path7100"
