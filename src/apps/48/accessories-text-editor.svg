@@ -32,7 +32,23 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <filter
@@ -420,12 +436,12 @@
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter9701);enable-background:new"
        id="path9687"
        d="m 303.1875,51.146484 c -1.33005,0 -2.3249,1.108585 -2.41602,2.371094 l -2,27.6875 a 0.63578687,0.63578687 0 0 0 0.63477,0.679688 h 35.9375 a 0.63578687,0.63578687 0 0 0 0.63477,-0.679688 l -1.9375,-27.6875 c -0.0906,-1.295836 -1.10512,-2.371096 -2.41602,-2.371094 z"
-       transform="matrix(0.9941088,0,0,0.9114956,-294.26948,-33.128696)" />
+       transform="matrix(0.9941088,0,0,0.9114956,-295.02067,-33.628695)" />
     <g
        style="display:inline;enable-background:new"
        id="layer1-7"
        inkscape:label="Livello 1"
-       transform="translate(-1.2488057,-2.5000011)">
+       transform="translate(-2,-3)">
       <path
          sodipodi:nodetypes="cczcccczc"
          id="rect3790"

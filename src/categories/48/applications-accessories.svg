@@ -32,7 +32,23 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <radialGradient
@@ -41,7 +57,7 @@
        fx="321.68939"
        cy="93.480629"
        cx="321.68939"
-       gradientTransform="matrix(1.3423045,0,0,0.57527356,-391.97181,-12.943617)"
+       gradientTransform="matrix(1.3423045,0,0,0.57527356,-391.30512,-13.276947)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4238"
        xlink:href="#linearGradient4213-2"
@@ -67,7 +83,7 @@
        fx="321.68939"
        fy="93.480629"
        r="2.6074562"
-       gradientTransform="matrix(1.3423049,0,0,0.57527356,-407.97193,-12.943617)"
+       gradientTransform="matrix(1.3423049,0,0,0.57527356,-407.30524,-13.276947)"
        gradientUnits="userSpaceOnUse" />
     <filter
        color-interpolation-filters="sRGB"
@@ -233,7 +249,7 @@
        fx="321.68939"
        cy="93.480629"
        cx="321.68939"
-       gradientTransform="matrix(6.2033045,0,0,0.9469504,-1963.9685,-49.282331)"
+       gradientTransform="matrix(6.2033045,0,0,0.9469504,-1963.3019,-49.615661)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4276"
        xlink:href="#linearGradient4213-2"
@@ -246,15 +262,15 @@
     <ellipse
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:url(#radialGradient4238);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02933;marker:none;enable-background:new"
        id="path4211-0"
-       cx="39.833324"
-       cy="40.833321"
+       cx="40.500011"
+       cy="40.499989"
        rx="3.5000002"
        ry="1.5000006" />
     <ellipse
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:url(#radialGradient4219);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.02933;marker:none;enable-background:new"
        id="path4211"
-       cx="23.833345"
-       cy="40.833321"
+       cx="24.500034"
+       cy="40.499989"
        rx="3.5000012"
        ry="1.5000006" />
     <rect
@@ -266,7 +282,7 @@
        y="89.5"
        rx="4.6502857"
        ry="1"
-       transform="matrix(1.0080025,0,0,1.9258216,-300.23549,-137.45352)" />
+       transform="matrix(1.0080025,0,0,1.9258216,-299.5688,-137.78685)" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.283721;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter4179);enable-background:new"
        id="rect4149"
@@ -276,11 +292,11 @@
        y="89.5"
        rx="2.0572851"
        ry="1"
-       transform="matrix(0.97215496,0,0,1,-288.72842,-53.666684)" />
+       transform="matrix(0.97215496,0,0,1,-288.06173,-54.000014)" />
     <g
        style="display:inline;enable-background:new"
        id="g13083"
-       transform="translate(-1503.6669,-956.66667)">
+       transform="translate(-1503.0003,-957)">
       <path
          id="path12857"
          d="m 1506.5,967.5 v 26 h 41 z m 7,12.7188 9.9062,6.2812 H 1513.5 Z"
@@ -424,7 +440,7 @@
     <g
        style="display:inline;opacity:0.330233;enable-background:new"
        id="g3139-5"
-       transform="translate(-298.66668,-13.666685)"
+       transform="translate(-297.99999,-14.000015)"
        clip-path="url(#clipPath4143)">
       <path
          d="M 319.55507,50.141369 331.16116,30.64645 320.41166,52 Z"
@@ -468,7 +484,7 @@
     </g>
     <g
        id="g3139"
-       transform="translate(-295.66668,-12.666684)"
+       transform="translate(-294.99999,-13.000014)"
        style="display:inline;enable-background:new">
       <path
          d="M 319.55507,50.141369 331.16116,30.64645 320.41166,52 Z"
@@ -561,8 +577,8 @@
     <ellipse
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.0883721;fill:url(#radialGradient4276);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.83901;marker:none;enable-background:new"
        id="path4211-0-5"
-       cx="31.568983"
-       cy="39.239193"
+       cx="32.235672"
+       cy="38.905861"
        rx="16.174845"
        ry="2.4691317" />
   </g>

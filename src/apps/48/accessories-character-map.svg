@@ -32,7 +32,23 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <filter
@@ -48,7 +64,7 @@
          id="feGaussianBlur4577" />
     </filter>
     <linearGradient
-       gradientTransform="matrix(0.47619056,0,0,0.46590906,100.42918,-22.718823)"
+       gradientTransform="matrix(0.47619056,0,0,0.46590906,100.69047,-22.590909)"
        y2="146.47488"
        x2="-160"
        y1="48.997898"
@@ -85,7 +101,7 @@
        fx="308.53986"
        fy="52.327278"
        r="20.500004"
-       gradientTransform="matrix(2.4657196,0,0,1.4039191,-747.4942,-69.743717)"
+       gradientTransform="matrix(2.4657196,0,0,1.4039191,-747.23291,-69.615803)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -308,10 +324,10 @@
        inkscape:r_cx="true"
        id="rect2960-9-7-86-2-9-0"
        height="41"
-       transform="matrix(0.95698123,0,0,0.97896988,-281.49528,-47.0542)" />
+       transform="matrix(0.95698123,0,0,0.97896988,-281.23399,-46.926286)" />
     <rect
-       y="3.3720889"
-       x="4.2387104"
+       y="3.5000033"
+       x="4.500001"
        width="40.000008"
        style="color:#000000;display:block;overflow:visible;visibility:visible;fill:url(#linearGradient4458);fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient4585);stroke-width:0.999999;marker:none;enable-background:new"
        ry="4.6590905"
@@ -323,7 +339,7 @@
     <g
        style="display:inline;enable-background:new"
        id="g3173-8"
-       transform="matrix(0.46428564,0,0,0.45454541,-23.118429,-28.855184)">
+       transform="matrix(0.46428564,0,0,0.45454541,-22.857138,-28.72727)">
       <g
          transform="translate(262,16)"
          id="g6388-9">
@@ -389,8 +405,8 @@
       </g>
     </g>
     <rect
-       y="4.3720899"
-       x="5.2387094"
+       y="4.5000048"
+       x="5.5"
        width="37.999992"
        style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.376866;fill:none;stroke:#ffffff;stroke-width:0.999999;marker:none;enable-background:new"
        ry="3.4595461"
@@ -402,26 +418,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#2e3436;fill-opacity:1;stroke:#d3d7cf;stroke-width:1;enable-background:new"
-       x="24.891626"
-       y="30.191833"
+       x="25.156353"
+       y="30.318087"
        id="text4908-0"
        transform="scale(0.98701932,1.0131514)"><tspan
          sodipodi:role="line"
          id="tspan4910-2"
-         x="24.891626"
-         y="30.191833"
+         x="25.156353"
+         y="30.318087"
          style="font-size:19.7404px;line-height:1.25;fill:#2e3436;stroke:#d3d7cf;stroke-width:1">à</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#2e3436;fill-opacity:1;stroke:none;enable-background:new"
-       x="24.891626"
-       y="30.191833"
+       x="25.156353"
+       y="30.318087"
        id="text4908"
        transform="scale(0.98701932,1.0131514)"><tspan
          sodipodi:role="line"
          id="tspan4910"
-         x="24.891626"
-         y="30.191833"
+         x="25.156353"
+         y="30.318087"
          style="font-size:19.7404px;line-height:1.25;fill:#2e3436">à</tspan></text>
   </g>
 </svg>

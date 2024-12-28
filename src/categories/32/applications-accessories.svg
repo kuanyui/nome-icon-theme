@@ -32,7 +32,23 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <radialGradient
@@ -250,7 +266,7 @@
      id="layer1">
     <g
        id="g4420"
-       transform="matrix(0.72179022,0,0,0.72179022,-216.83058,-39.936335)"
+       transform="matrix(0.72179022,0,0,0.72179022,-216.90308,-40.253348)"
        style="display:inline;enable-background:new">
       <ellipse
          transform="matrix(1.3423045,0,0,0.78932881,-94.305139,20.713044)"
@@ -279,7 +295,7 @@
     </g>
     <g
        id="g4348"
-       transform="matrix(0.68432756,0,0,0.68432756,-203.59631,-36.009885)"
+       transform="matrix(0.68432756,0,0,0.68432756,-203.66881,-36.326898)"
        style="display:inline;enable-background:new">
       <rect
          transform="matrix(1.0080025,0,0,1.9258216,-2.5688087,-83.786852)"
@@ -305,7 +321,7 @@
     <g
        style="display:inline;enable-background:new"
        id="g13134"
-       transform="translate(-1501.9282,-1029.6824)">
+       transform="translate(-1502.0007,-1029.9994)">
       <path
          sodipodi:nodetypes="cccccccc"
          id="path13023"
@@ -437,7 +453,7 @@
     <g
        style="display:inline;opacity:0.418605;enable-background:new"
        id="g3187-2"
-       transform="translate(-364.92716,-127.68309)"
+       transform="translate(-364.99966,-128.0001)"
        clip-path="url(#clipPath4307)">
       <path
          d="m 378.29812,150.97891 8.13846,-13.64371 -7.5378,14.94448 z"
@@ -529,7 +545,7 @@
     </g>
     <g
        id="g3187"
-       transform="translate(-362.92716,-125.68309)"
+       transform="translate(-362.99966,-126.0001)"
        style="display:inline;enable-background:new">
       <path
          d="m 378.29812,150.97891 8.13846,-13.64371 -7.5378,14.94448 z"

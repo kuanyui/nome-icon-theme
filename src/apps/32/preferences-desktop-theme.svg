@@ -32,7 +32,23 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <linearGradient
@@ -209,11 +225,11 @@
        id="rect2994-6-2-7-4"
        d="m 304.5,85.5 c -2.77,0 -5,2.23 -5,5 0,2.77 2.23,5 5,5 H 338 c 0.831,0 1.5,-0.669 1.5,-1.5 v -7 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:url(#linearGradient3410-2);fill-opacity:1;stroke:none;stroke-width:1;marker:none;filter:url(#filter4184-1);enable-background:accumulate"
-       transform="matrix(0.64272499,0,0,0.64272499,-189.12026,-30.809334)" />
+       transform="matrix(0.64272499,0,0,0.64272499,-188.85064,-30.808409)" />
     <g
        style="display:inline;enable-background:new"
        id="g4657-5"
-       transform="matrix(0.64972551,0,0,0.63815752,-191.35687,-31.36959)">
+       transform="matrix(0.64972551,0,0,0.63815752,-191.08725,-31.368665)">
       <g
          transform="translate(0,-20)"
          id="g4177-0">

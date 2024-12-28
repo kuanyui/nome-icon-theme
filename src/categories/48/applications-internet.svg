@@ -32,7 +32,23 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g9639"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <radialGradient
@@ -40,7 +56,7 @@
        xlink:href="#linearGradient26121-3-8-2"
        id="radialGradient9771"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.00851,0,0,0.373148,-0.211403,24.39)"
+       gradientTransform="matrix(0.3541635,0,0,0.11953274,118.3955,47.927509)"
        cx="24.849752"
        cy="38.908627"
        fx="24.849752"
@@ -63,7 +79,7 @@
        xlink:href="#linearGradient26121-3-8-2"
        id="radialGradient9773"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.37,0,24.5124)"
+       gradientTransform="matrix(0.474726,0,0,0.16022369,115.39974,46.09539)"
        cx="24.849752"
        cy="38.908627"
        fx="24.849752"
@@ -74,7 +90,7 @@
        xlink:href="#linearGradient3962-1-1-9-5"
        id="radialGradient9775"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4586148,0,0,0.4573353,115.75102,33.33936)"
+       gradientTransform="matrix(0.4586148,0,0,0.4573353,115.78076,33.391074)"
        cx="18.247644"
        cy="15.716079"
        fx="18.247644"
@@ -108,7 +124,7 @@
        xlink:href="#linearGradient10458"
        id="linearGradient9777"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.08589712,0,0,0.08624005,116.28731,34.113239)"
+       gradientTransform="matrix(0.08589712,0,0,0.08624005,116.31705,34.164953)"
        x1="135.8703"
        y1="5.0280199"
        x2="140.44405"
@@ -852,7 +868,7 @@
        fy="198.54938"
        r="14.221639"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.7298921,-1.1327203e-6,4.7023412e-7,1.5484162,-523.79813,-108.88748)" />
+       gradientTransform="matrix(2.4539363,-7.4522892e-7,3.0937211e-7,1.0187197,-343.5972,-152.71496)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient9929">
@@ -905,29 +921,27 @@
          id="g9639"
          style="display:inline">
         <ellipse
-           transform="matrix(0.351175,0,0,0.320336,118.44,40.0628)"
            id="path9641"
-           style="fill:url(#radialGradient9771);fill-opacity:1;stroke:none;filter:url(#filter5927)"
-           cx="24.849752"
-           cy="38.908627"
-           rx="20.203051"
-           ry="7.4751287" />
+           style="fill:url(#radialGradient9771);fill-opacity:1;stroke:none;stroke-width:0.335401;filter:url(#filter5927)"
+           cx="127.19637"
+           cy="52.578339"
+           rx="7.0948062"
+           ry="2.3945527" />
         <ellipse
-           style="opacity:0.518367;fill:url(#radialGradient9773);fill-opacity:1;stroke:none;filter:url(#filter5788)"
+           style="opacity:0.518367;fill:url(#radialGradient9773);fill-opacity:1;stroke:none;stroke-width:0.453403;filter:url(#filter5788)"
            id="path9643"
-           transform="matrix(0.474726,0,0,0.433037,115.37,35.4289)"
-           cx="24.849752"
-           cy="38.908627"
-           rx="20.203051"
-           ry="7.4751287" />
+           cx="127.19657"
+           cy="52.329479"
+           rx="9.5909138"
+           ry="3.2370074" />
         <path
            style="fill:url(#radialGradient9775);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient9777);stroke-width:0.456115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 136.88196,44.372419 c 0,5.300916 -4.30944,9.598188 -9.62457,9.598188 -5.31562,0 -9.62481,-4.297322 -9.62481,-9.598188 0,-5.300671 4.30919,-9.597506 9.62481,-9.597506 5.31513,0 9.62457,4.296835 9.62457,9.597506 z"
+           d="m 136.9117,44.424133 c 0,5.300916 -4.30944,9.598188 -9.62457,9.598188 -5.31562,0 -9.62481,-4.297322 -9.62481,-9.598188 0,-5.300671 4.30919,-9.597506 9.62481,-9.597506 5.31513,0 9.62457,4.296835 9.62457,9.597506 z"
            id="path9645" />
         <g
            id="g9647"
            style="fill:url(#radialGradient9783);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
-           transform="matrix(0.451733,0,0,0.451598,115.798,33.8722)">
+           transform="matrix(0.451733,0,0,0.451598,115.82774,33.923914)">
           <g
              id="g9649"
              style="fill:url(#radialGradient9781);fill-opacity:1">
@@ -940,7 +954,7 @@
         <g
            id="g9653"
            style="fill:url(#radialGradient9789);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
-           transform="matrix(0.451733,0,0,0.451598,115.798,33.8722)">
+           transform="matrix(0.451733,0,0,0.451598,115.82774,33.923914)">
           <g
              id="g9655"
              style="fill:url(#radialGradient9787);fill-opacity:1">
@@ -953,7 +967,7 @@
         <g
            id="g9659"
            style="fill:url(#radialGradient9795);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
-           transform="matrix(0.451733,0,0,0.451598,115.798,33.8722)">
+           transform="matrix(0.451733,0,0,0.451598,115.82774,33.923914)">
           <g
              id="g9661"
              style="fill:url(#radialGradient9793);fill-opacity:1">
@@ -966,7 +980,7 @@
         <g
            id="g9665"
            style="fill:url(#radialGradient9801);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
-           transform="matrix(0.451733,0,0,0.451598,115.798,33.8722)">
+           transform="matrix(0.451733,0,0,0.451598,115.82774,33.923914)">
           <g
              id="g9667"
              style="fill:url(#radialGradient9799);fill-opacity:1">
@@ -979,7 +993,7 @@
         <g
            id="g9671"
            style="fill:url(#radialGradient9807);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
-           transform="matrix(0.451733,0,0,0.451598,115.798,33.8722)">
+           transform="matrix(0.451733,0,0,0.451598,115.82774,33.923914)">
           <g
              id="g9673"
              style="fill:url(#radialGradient9805);fill-opacity:1">
@@ -992,7 +1006,7 @@
         <g
            id="g9677"
            style="fill:url(#radialGradient9813);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
-           transform="matrix(0.451733,0,0,0.451598,115.798,33.8722)">
+           transform="matrix(0.451733,0,0,0.451598,115.82774,33.923914)">
           <g
              id="g9679"
              style="fill:url(#radialGradient9811);fill-opacity:1">
@@ -1005,7 +1019,7 @@
         <g
            id="g9683"
            style="fill:url(#radialGradient9819);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
-           transform="matrix(0.451733,0,0,0.451598,115.798,33.8722)">
+           transform="matrix(0.451733,0,0,0.451598,115.82774,33.923914)">
           <g
              id="g9685"
              style="fill:url(#radialGradient9817);fill-opacity:1">
@@ -1018,7 +1032,7 @@
         <g
            id="g9689"
            style="fill:url(#radialGradient9825);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
-           transform="matrix(0.451733,0,0,0.451598,115.798,33.8722)">
+           transform="matrix(0.451733,0,0,0.451598,115.82774,33.923914)">
           <g
              id="g9691"
              style="fill:url(#radialGradient9823);fill-opacity:1">
@@ -1031,7 +1045,7 @@
         <g
            id="g9695"
            style="fill:url(#radialGradient9831);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
-           transform="matrix(0.451733,0,0,0.451598,115.798,33.8722)">
+           transform="matrix(0.451733,0,0,0.451598,115.82774,33.923914)">
           <g
              id="g9697"
              style="fill:url(#radialGradient9829);fill-opacity:1">
@@ -1044,7 +1058,7 @@
         <g
            id="g9701"
            style="fill:url(#radialGradient9837);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
-           transform="matrix(0.451733,0,0,0.451598,115.798,33.8722)">
+           transform="matrix(0.451733,0,0,0.451598,115.82774,33.923914)">
           <g
              id="g9703"
              style="fill:url(#radialGradient9835);fill-opacity:1">
@@ -1057,7 +1071,7 @@
         <g
            style="fill:url(#radialGradient9843);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
            id="g9707"
-           transform="matrix(0.46747,0,0,0.46733,115.469,33.3519)">
+           transform="matrix(0.46747,0,0,0.46733,115.49874,33.403614)">
           <g
              style="fill:url(#radialGradient9841);fill-opacity:1"
              id="g9709">
@@ -1070,7 +1084,7 @@
         <g
            style="fill:url(#radialGradient9849);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
            id="g9713"
-           transform="matrix(0.46747,0,0,0.46733,115.469,33.3519)">
+           transform="matrix(0.46747,0,0,0.46733,115.49874,33.403614)">
           <g
              style="fill:url(#radialGradient9847);fill-opacity:1"
              id="g9715">
@@ -1083,7 +1097,7 @@
         <g
            style="fill:url(#radialGradient9855);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
            id="g9719"
-           transform="matrix(0.46747,0,0,0.46733,115.469,33.3519)">
+           transform="matrix(0.46747,0,0,0.46733,115.49874,33.403614)">
           <g
              style="fill:url(#radialGradient9853);fill-opacity:1"
              id="g9721">
@@ -1096,7 +1110,7 @@
         <g
            style="fill:url(#radialGradient9861);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
            id="g9725"
-           transform="matrix(0.46747,0,0,0.46733,115.469,33.3519)">
+           transform="matrix(0.46747,0,0,0.46733,115.49874,33.403614)">
           <g
              style="fill:url(#radialGradient9859);fill-opacity:1"
              id="g9727">
@@ -1109,7 +1123,7 @@
         <g
            style="fill:url(#radialGradient9867);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
            id="g9731"
-           transform="matrix(0.46747,0,0,0.46733,115.469,33.3519)">
+           transform="matrix(0.46747,0,0,0.46733,115.49874,33.403614)">
           <g
              style="fill:url(#radialGradient9865);fill-opacity:1"
              id="g9733">
@@ -1122,7 +1136,7 @@
         <g
            style="fill:url(#radialGradient9873);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
            id="g9737"
-           transform="matrix(0.46747,0,0,0.46733,115.469,33.3519)">
+           transform="matrix(0.46747,0,0,0.46733,115.49874,33.403614)">
           <g
              style="fill:url(#radialGradient9871);fill-opacity:1"
              id="g9739">
@@ -1135,7 +1149,7 @@
         <g
            style="fill:url(#radialGradient9879);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
            id="g9743"
-           transform="matrix(0.46747,0,0,0.46733,115.469,33.3519)">
+           transform="matrix(0.46747,0,0,0.46733,115.49874,33.403614)">
           <g
              style="fill:url(#radialGradient9877);fill-opacity:1"
              id="g9745">
@@ -1148,7 +1162,7 @@
         <g
            style="fill:url(#radialGradient9885);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
            id="g9749"
-           transform="matrix(0.46747,0,0,0.46733,115.469,33.3519)">
+           transform="matrix(0.46747,0,0,0.46733,115.49874,33.403614)">
           <g
              style="fill:url(#radialGradient9883);fill-opacity:1"
              id="g9751">
@@ -1161,7 +1175,7 @@
         <g
            style="fill:url(#radialGradient9891);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
            id="g9755"
-           transform="matrix(0.46747,0,0,0.46733,115.469,33.3519)">
+           transform="matrix(0.46747,0,0,0.46733,115.49874,33.403614)">
           <g
              style="fill:url(#radialGradient9889);fill-opacity:1"
              id="g9757">
@@ -1174,7 +1188,7 @@
         <g
            style="fill:url(#radialGradient9897);fill-opacity:1;fill-rule:nonzero;stroke-miterlimit:4"
            id="g9761"
-           transform="matrix(0.46747,0,0,0.46733,115.469,33.3519)">
+           transform="matrix(0.46747,0,0,0.46733,115.49874,33.403614)">
           <g
              style="fill:url(#radialGradient9895);fill-opacity:1"
              id="g9763">
@@ -1185,16 +1199,15 @@
           </g>
         </g>
         <circle
-           style="display:inline;overflow:visible;visibility:visible;opacity:0.535135;fill:none;stroke:url(#radialGradient9935);stroke-width:0.693277;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           style="display:inline;overflow:visible;visibility:visible;opacity:0.535135;fill:none;stroke:url(#radialGradient9935);stroke-width:0.456114;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
            id="path9767"
-           transform="matrix(0.6579108,0,0,0.6579108,0.9855069,-81.128329)"
-           cx="191.875"
-           cy="190.75"
-           r="13.875" />
+           cx="127.25188"
+           cy="44.419861"
+           r="9.1285124" />
         <path
            style="display:inline;overflow:visible;visibility:visible;opacity:0.535135;fill:url(#radialGradient9899);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;filter:url(#filter10631-9-5-7)"
            d="m 64.625,130 c -0.05592,0.48975 -0.09375,0.99536 -0.09375,1.5 0,7.1928 5.838446,13.03125 13.03125,13.03125 7.192801,0 13.031249,-5.83846 13.03125,-13.03125 0,-0.50479 -0.0378,-1.0101 -0.09375,-1.5 -0.753425,6.47773 -6.258685,11.53125 -12.9375,11.53125 -6.679033,0 -12.184356,-5.05322 -12.9375,-11.53125 z"
-           transform="matrix(0.6781,0,0,0.6781,74.6825,-44.7084)"
+           transform="matrix(0.6781,0,0,0.6781,74.712247,-44.656686)"
            id="path9769" />
       </g>
     </g>
