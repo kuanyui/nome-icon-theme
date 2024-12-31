@@ -51,11 +51,11 @@
       <stop
          id="stop9784"
          offset="0"
-         style="stop-color:#888a85;stop-opacity:1;" />
+         style="stop-color:#666763;stop-opacity:1;" />
       <stop
          id="stop9786"
          offset="1"
-         style="stop-color:#888a85;stop-opacity:0.54490012;" />
+         style="stop-color:#b2b2ad;stop-opacity:0.84359914;" />
     </linearGradient>
     <linearGradient
        gradientTransform="matrix(0.32412476,0,0,0.40282485,0.83617112,-2.8148862)"
@@ -177,14 +177,14 @@
        sodipodi:nodetypes="ccccccccccc"
        style="display:inline;fill:#bdc2b6;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient9788);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;enable-background:new" />
     <path
-       d="m 12.078101,3.737638 2.91177,0.00739 c 0.295638,0 0.584683,0.3987717 0.584683,0.6828883 l -0.02128,0.9894748 c 0,0.2646638 -0.268021,0.558861 -0.575299,0.558861 l -2.899876,0.00739 z"
+       d="m 11.891957,3.5687264 3.221803,0.0085 c 0.327117,0 0.646938,0.4587513 0.646938,0.7856021 l -0.02355,1.1383025 c 0,0.304472 -0.296559,0.6429197 -0.636554,0.6429197 l -3.208643,0.0085 z"
        id="path80"
        sodipodi:nodetypes="ccccccc"
-       style="display:inline;opacity:0.7;fill:#434542;fill-opacity:1;stroke:none;stroke-width:0.732368;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+       style="display:inline;opacity:0.7;fill:#434542;fill-opacity:1;stroke:none;stroke-width:0.826279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
     <path
-       d="M 10.66241,8.0211804 V 5.4598809 c 0,-0.3551514 0.372538,-0.7036208 0.767719,-0.7036208 h 3.108914"
+       d="M 10.741907,7.9505258 V 5.3892263 c 0,-0.3551514 0.372538,-0.7036208 0.767719,-0.7036208 h 3.108914"
        id="path90"
        sodipodi:nodetypes="cccc"
-       style="display:inline;opacity:0.657324;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+       style="display:inline;opacity:0.49885259;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
   </g>
 </svg>
