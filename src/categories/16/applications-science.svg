@@ -32,7 +32,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g16"
      showgrid="true">
     <inkscape:grid
        id="grid1"
@@ -52,6 +52,30 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         id="stop4"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:0.42060912;" />
+      <stop
+         id="stop5"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         id="stop2"
+         offset="0"
+         style="stop-color:#ce5c00;stop-opacity:1;" />
+      <stop
+         id="stop3"
+         offset="1"
+         style="stop-color:#ec8e04;stop-opacity:1;" />
+    </linearGradient>
     <linearGradient
        gradientTransform="matrix(0.4071827,0,0,0.4516128,-3.9339943,-4.693548)"
        gradientUnits="userSpaceOnUse"
@@ -118,7 +142,7 @@
        inkscape:collect="always"
        x1="18.628962"
        x2="14.926814"
-       xlink:href="#linearGradient4394"
+       xlink:href="#linearGradient3"
        y1="13.71875"
        y2="13.71875" />
     <linearGradient
@@ -148,7 +172,7 @@
        inkscape:collect="always"
        x1="15.666835"
        x2="15.5"
-       xlink:href="#linearGradient3523"
+       xlink:href="#linearGradient5"
        y1="14.743379"
        y2="16.533243" />
     <linearGradient
