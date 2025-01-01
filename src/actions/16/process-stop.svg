@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="process-stop.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="6"
+     inkscape:cx="0"
+     inkscape:cy="0"
+     inkscape:window-width="800"
+     inkscape:window-height="600"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <radialGradient
+       r="13.435029"
+       fy="178.61757"
+       fx="123.66179"
+       cy="178.61757"
+       cx="123.66179"
+       gradientTransform="matrix(0.5078587,-1.4295296,1.3232189,0.47009024,-182.98173,276.33908)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient4122"
+       xlink:href="#linearGradient3852-7-1"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3852-7-1">
+      <stop
+         style="stop-color:#ef2929;stop-opacity:1;"
+         offset="0"
+         id="stop3854-0-3" />
+      <stop
+         style="stop-color:#cc0000;stop-opacity:1"
+         offset="1"
+         id="stop3856-4-1" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1.77656;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+       id="path3021-6"
+       sodipodi:sides="8"
+       sodipodi:cx="127"
+       sodipodi:cy="182"
+       sodipodi:r1="13.453624"
+       sodipodi:r2="6.7268119"
+       sodipodi:arg1="0.7328151"
+       sodipodi:arg2="1.1255142"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 137,191 -9.29289,4.43503 L 118,192 113.56497,182.70711 117,173 126.29289,168.56497 136,172 l 4.43503,9.29289 z"
+       transform="matrix(0.18843442,0.53040887,-0.53040876,0.18843445,80.103477,-94.156741)" />
+    <path
+       sodipodi:type="star"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient4122);fill-opacity:1;fill-rule:nonzero;stroke:#a40000;stroke-width:2.48719;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+       id="path3021-1-4"
+       sodipodi:sides="8"
+       sodipodi:cx="127"
+       sodipodi:cy="182"
+       sodipodi:r1="13.453624"
+       sodipodi:r2="6.7268119"
+       sodipodi:arg1="0.7328151"
+       sodipodi:arg2="1.1255142"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 137,191 -9.29289,4.43503 L 118,192 113.56497,182.70711 117,173 126.29289,168.56497 136,172 l 4.43503,9.29289 z"
+       transform="matrix(0.13459567,0.37886251,-0.37886245,0.1345957,59.359577,-65.111711)" />
+  </g>
+</svg>
