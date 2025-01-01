@@ -2,26 +2,26 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="300"
    id="svg11300"
    inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="preferences-system-windows.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
    version="1.0"
-   width="400">
+   width="400"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title2912">Windows manager prefs</title>
   <metadata
@@ -82,7 +82,9 @@
      showguides="true"
      stroke="#ef2929"
      width="400px"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        empspacing="2"
        enabled="true"
@@ -91,7 +93,10 @@
        spacingy="0.5px"
        type="xygrid"
        visible="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -110,15 +115,15 @@
     <linearGradient
        id="linearGradient3957">
       <stop
-         style="stop-color:#d3d7cf;stop-opacity:1"
+         style="stop-color:#ffa7a7;stop-opacity:1;"
          offset="0"
          id="stop3959" />
       <stop
          id="stop3965"
          offset="0.5"
-         style="stop-color:#babdb6;stop-opacity:1" />
+         style="stop-color:#ee8585;stop-opacity:1;" />
       <stop
-         style="stop-color:#d3d7cf;stop-opacity:1"
+         style="stop-color:#b62b2b;stop-opacity:1;"
          offset="1"
          id="stop3961" />
     </linearGradient>
@@ -151,7 +156,11 @@
     </linearGradient>
     <filter
        inkscape:collect="always"
-       id="filter4311">
+       id="filter4311"
+       x="-0.071006067"
+       y="-0.075587128"
+       width="1.1420121"
+       height="1.1511743">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.76799988"
@@ -189,15 +198,15 @@
     <linearGradient
        id="linearGradient3957-2-0">
       <stop
-         style="stop-color:#d3d7cf;stop-opacity:1"
+         style="stop-color:#e8bebe;stop-opacity:1;"
          offset="0"
          id="stop3959-8-1" />
       <stop
          id="stop3965-8-3"
          offset="0.5"
-         style="stop-color:#babdb6;stop-opacity:1" />
+         style="stop-color:#f28181;stop-opacity:1;" />
       <stop
-         style="stop-color:#d3d7cf;stop-opacity:1"
+         style="stop-color:#be2f2f;stop-opacity:1;"
          offset="1"
          id="stop3961-9-7" />
     </linearGradient>
@@ -216,7 +225,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4898-0">
+       id="filter4898-0"
+       x="-0.069927395"
+       y="-0.080071031"
+       width="1.1398548"
+       height="1.1601421">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.4591686"
@@ -225,22 +238,26 @@
     <linearGradient
        id="linearGradient3957-2-0-0-0-6">
       <stop
-         style="stop-color:#d3d7cf;stop-opacity:1"
+         style="stop-color:#ea8181;stop-opacity:1;"
          offset="0"
          id="stop3959-8-1-4-5-2" />
       <stop
          id="stop3965-8-3-6-2-7"
          offset="0.5"
-         style="stop-color:#babdb6;stop-opacity:1" />
+         style="stop-color:#f28181;stop-opacity:1;" />
       <stop
-         style="stop-color:#d3d7cf;stop-opacity:1"
+         style="stop-color:#bb3737;stop-opacity:1;"
          offset="1"
          id="stop3961-9-7-4-0-9" />
     </linearGradient>
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter5693-0">
+       id="filter5693-0"
+       x="-0.10053336"
+       y="-0.11600003"
+       width="1.2010667"
+       height="1.2320001">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.42"
@@ -293,15 +310,15 @@
     <linearGradient
        id="linearGradient3957-2-0-0-0-6-9">
       <stop
-         style="stop-color:#d3d7cf;stop-opacity:1"
+         style="stop-color:#db6767;stop-opacity:1;"
          offset="0"
          id="stop3959-8-1-4-5-2-04" />
       <stop
          id="stop3965-8-3-6-2-7-8"
          offset="0.5"
-         style="stop-color:#babdb6;stop-opacity:1" />
+         style="stop-color:#dc4e4e;stop-opacity:1;" />
       <stop
-         style="stop-color:#d3d7cf;stop-opacity:1"
+         style="stop-color:#c63636;stop-opacity:1;"
          offset="1"
          id="stop3961-9-7-4-0-9-4" />
     </linearGradient>
@@ -386,13 +403,12 @@
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="baseplate"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          height="48"
          id="rect6284"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="296"
          y="50" />
@@ -400,7 +416,7 @@
          height="32"
          id="rect6592"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="303"
          y="126" />
@@ -408,7 +424,7 @@
          height="22"
          id="rect6749"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="303"
          y="177" />
@@ -416,33 +432,34 @@
          height="16"
          id="rect6833"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="303"
          y="219" />
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18.30070686px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="20.970737"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="20.970737"
-           y="21.513618">apps</tspan></text>
+           y="21.513618"
+           style="font-size:18.3007px;line-height:1.25">apps</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18.30070686px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="191.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="191.97073"
-           y="21.513618">preferences-system-windows</tspan></text>
+           y="21.513618"
+           style="font-size:18.3007px;line-height:1.25">preferences-system-windows</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -475,7 +492,7 @@
              style="color:#000000;fill:url(#linearGradient4357);fill-opacity:1;stroke:#888a85;stroke-width:1.00000095000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
              inkscape:connector-curvature="0" />
           <path
-             style="opacity:0.42671012;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             style="opacity:0.42671012;color:#000000;fill:#d82121;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              d="m 445,56 4.5625,0 C 450.35887,56 451,56.641125 451,57.4375 L 451,62 446.4375,62 C 445.64112,62 445,61.358875 445,60.5625 z"
              id="rect3118-8"
              inkscape:connector-curvature="0"
@@ -489,8 +506,8 @@
           <path
              sodipodi:nodetypes="ccccccc"
              id="rect4671-0-2-6"
-             d="m 420.59536,55.500005 28.80952,0 c 0.60676,0 1.09524,0.492947 1.09524,1.105262 l 0,27.789464 -31,0 0,-27.789464 c 0,-0.612316 0.48848,-1.105262 1.09524,-1.105262 z"
-             style="opacity:0.5;color:#000000;fill:none;stroke:url(#linearGradient4361);stroke-width:1.00000095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+             d="m 420.59536,55.500005 h 28.80952 c 0.60676,0 1.09524,0.492947 1.09524,1.105262 v 27.789464 h -31 V 56.605267 c 0,-0.612316 0.48848,-1.105262 1.09524,-1.105262 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;stroke:url(#linearGradient4361);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
              inkscape:connector-curvature="0" />
           <g
              style="stroke:#888a85;display:inline;enable-background:new;opacity:0.25081433"
