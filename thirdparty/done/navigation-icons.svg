@@ -2,26 +2,26 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    height="256"
    id="svg11300"
    inkscape:export-filename="/home/jimmac/Desktop/wi-fi.png"
    inkscape:export-xdpi="90.000000"
    inkscape:export-ydpi="90.000000"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:version="0.48.1 r9760"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="navigation-icons.svg"
    sodipodi:version="0.32"
    style="display:inline;enable-background:new"
    version="1.0"
-   width="1000">
+   width="1000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title8836">Optical Drive</title>
   <metadata
@@ -60,7 +60,7 @@
      guidetolerance="13"
      height="300px"
      id="base"
-     inkscape:current-layer="svg11300"
+     inkscape:current-layer="g5816"
      inkscape:cx="417.27629"
      inkscape:cy="-94.88568"
      inkscape:document-units="px"
@@ -84,7 +84,9 @@
      width="400px"
      borderlayer="true"
      showborder="true"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        empspacing="2"
        enabled="false"
@@ -93,50 +95,67 @@
        spacingy="0.5px"
        type="xygrid"
        visible="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       units="px" />
     <sodipodi:guide
        orientation="0,1"
        position="55.75,59.125"
-       id="guide4059" />
+       id="guide4059"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="594.375,163.125"
-       id="guide6987" />
+       id="guide6987"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="70.5,76.125"
-       id="guide4091" />
+       id="guide4091"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="590.5,200"
-       id="guide5824" />
+       id="guide5824"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="564.80154,126.04178"
-       id="guide6041" />
+       id="guide6041"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="546.06321,100.93949"
-       id="guide6043" />
+       id="guide6043"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid6165"
        empspacing="4"
        visible="true"
        enabled="true"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
     <sodipodi:guide
        orientation="0,1"
        position="284,-43"
-       id="guide6182" />
+       id="guide6182"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="656,-108"
-       id="guide6602" />
+       id="guide6602"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="390.32294,-323.1478"
-       id="guide7059" />
+       id="guide7059"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -1747,9 +1766,9 @@
     <filter
        inkscape:collect="always"
        id="filter9708"
-       x="-0.099976338"
+       x="-0.099976339"
        width="1.1999527"
-       y="-0.90192091"
+       y="-0.90192089"
        height="2.8038418"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
@@ -1987,9 +2006,9 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter9708-2-8"
-       x="-0.099976338"
+       x="-0.099976339"
        width="1.1999527"
-       y="-0.90192091"
+       y="-0.90192089"
        height="2.8038418">
       <feGaussianBlur
          inkscape:collect="always"
@@ -4307,10 +4326,10 @@
     <filter
        inkscape:collect="always"
        id="filter6975"
-       x="-0.057684515"
-       width="1.115369"
-       y="-0.84803033"
-       height="2.6960607"
+       x="-0.66345543"
+       width="2.3269109"
+       y="-0.073732483"
+       height="1.147465"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -4320,10 +4339,10 @@
     <filter
        inkscape:collect="always"
        id="filter6983"
-       x="-0.032475468"
-       width="1.0649509"
-       y="-0.79328138"
-       height="2.5865626"
+       x="-0.57878156"
+       width="2.1575631"
+       y="-0.044511061"
+       height="1.0890221"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -5698,10 +5717,10 @@
     <filter
        inkscape:collect="always"
        id="filter6975-2"
-       x="-0.057684515"
-       width="1.115369"
-       y="-0.84803033"
-       height="2.6960607"
+       x="-0.66345543"
+       width="2.3269109"
+       y="-0.073732483"
+       height="1.147465"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -5711,10 +5730,10 @@
     <filter
        inkscape:collect="always"
        id="filter6983-1"
-       x="-0.032475468"
-       width="1.0649509"
-       y="-0.79328138"
-       height="2.5865626"
+       x="-0.57878156"
+       width="2.1575631"
+       y="-0.044511061"
+       height="1.0890221"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -8244,10 +8263,10 @@
     <filter
        inkscape:collect="always"
        id="filter6975-8"
-       x="-0.057684515"
-       width="1.115369"
-       y="-0.84803033"
-       height="2.6960607"
+       x="-0.66345543"
+       width="2.3269109"
+       y="-0.073732483"
+       height="1.147465"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -8257,10 +8276,10 @@
     <filter
        inkscape:collect="always"
        id="filter6983-10"
-       x="-0.032475468"
-       width="1.0649509"
-       y="-0.79328138"
-       height="2.5865626"
+       x="-0.57878156"
+       width="2.1575631"
+       y="-0.044511061"
+       height="1.0890221"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -8760,10 +8779,10 @@
     <filter
        inkscape:collect="always"
        id="filter6975-2-9"
-       x="-0.057684515"
-       width="1.115369"
-       y="-0.84803033"
-       height="2.6960607"
+       x="-0.66345543"
+       width="2.3269109"
+       y="-0.073732483"
+       height="1.147465"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -8773,10 +8792,10 @@
     <filter
        inkscape:collect="always"
        id="filter6983-1-6"
-       x="-0.032475468"
-       width="1.0649509"
-       y="-0.79328138"
-       height="2.5865626"
+       x="-0.57878156"
+       width="2.1575631"
+       y="-0.044511061"
+       height="1.0890221"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          inkscape:collect="always"
@@ -8938,7 +8957,7 @@
        x="-0.13139397"
        width="1.2627879"
        y="-1.3577377"
-       height="3.7154753">
+       height="3.7154755">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="6.7886885"
@@ -9173,7 +9192,7 @@
        x="-0.13139397"
        width="1.2627879"
        y="-1.3577377"
-       height="3.7154753">
+       height="3.7154755">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="6.7886885"
@@ -9239,7 +9258,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter6796-4-8">
+       id="filter6796-4-8"
+       x="-0.034628373"
+       y="-0.030305902"
+       width="1.0692642"
+       height="1.060611">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.8022805"
@@ -9463,7 +9486,7 @@
        x="-0.13139397"
        width="1.2627879"
        y="-1.3577377"
-       height="3.7154753">
+       height="3.7154755">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="6.7886885"
@@ -9923,7 +9946,7 @@
        x="-0.13139397"
        width="1.2627879"
        y="-1.3577377"
-       height="3.7154753">
+       height="3.7154755">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="6.7886885"
@@ -10114,7 +10137,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter6796-4-8-8">
+       id="filter6796-4-8-8"
+       x="-0.051774539"
+       y="-0.030305902"
+       width="1.0985719"
+       height="1.060611">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.8022805"
@@ -10148,7 +10175,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter6796-4-8-0">
+       id="filter6796-4-8-0"
+       x="-0.051774539"
+       y="-0.030305902"
+       width="1.0985719"
+       height="1.060611">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.8022805"
@@ -10182,7 +10213,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter6796-4-8-4">
+       id="filter6796-4-8-4"
+       x="-0.034628373"
+       y="-0.030305902"
+       width="1.0692642"
+       height="1.060611">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.8022805"
@@ -10267,7 +10302,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter6796-4-8-4-2-0-4">
+       id="filter6796-4-8-4-2-0-4"
+       x="-0.042880395"
+       y="-0.060387109"
+       width="1.0856636"
+       height="1.1272093">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.8022805"
@@ -10662,7 +10701,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter6796-4-8-0-9-9-4-7">
+       id="filter6796-4-8-0-9-9-4-7"
+       x="-0.031662347"
+       y="-0.02911269"
+       width="1.0633471"
+       height="1.0582039">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.8022805"
@@ -10695,10 +10738,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter7203-7-0"
-       x="-0.0392024"
+       x="-0.039202398"
        width="1.0784048"
-       y="-0.1568096"
-       height="1.3136193">
+       y="-0.15680959"
+       height="1.3136192">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.52269865"
@@ -10816,7 +10859,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter8460-4">
+       id="filter8460-4"
+       x="-0.01110759"
+       y="-0.01110759"
+       width="1.0222152"
+       height="1.0222152">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.12435899"
@@ -10866,10 +10913,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter8474-5"
-       x="-0.048940323"
+       x="-0.048940324"
        width="1.0978806"
        y="-2.1533742"
-       height="5.3067484">
+       height="5.3067485">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.7944785"
@@ -10922,7 +10969,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter8268-7">
+       id="filter8268-7"
+       x="-0.031667156"
+       y="-0.031667156"
+       width="1.0633343"
+       height="1.0633343">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.26702852"
@@ -10955,10 +11006,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter7203-7-0-7-6"
-       x="-0.0392024"
+       x="-0.039202398"
        width="1.0784048"
-       y="-0.1568096"
-       height="1.3136193">
+       y="-0.15680959"
+       height="1.3136192">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.52269865"
@@ -11087,7 +11138,7 @@
      id="g3682"
      inkscape:groupmode="layer">
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="baseplate"
        id="g3684"
        inkscape:groupmode="layer">
@@ -11095,7 +11146,7 @@
          y="50"
          x="26"
          width="48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="48x48"
          id="rect3686"
          height="48" />
@@ -11103,7 +11154,7 @@
          y="126"
          x="33"
          width="32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="32x32"
          id="rect3688"
          height="32" />
@@ -11111,7 +11162,7 @@
          y="176"
          x="32"
          width="24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="24x24"
          id="rect3690"
          height="24" />
@@ -11119,7 +11170,7 @@
          y="177"
          x="33"
          width="22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="22x22"
          id="rect3692"
          height="22" />
@@ -11127,7 +11178,7 @@
          y="219"
          x="33"
          width="16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="16x16"
          id="rect3694"
          height="16" />
@@ -11135,30 +11186,31 @@
          y="21.513618"
          xml:space="preserve"
          x="14.970734"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3696"><tspan
            y="21.513618"
            x="14.970734"
            sodipodi:role="line"
-           id="tspan3698">actions</tspan></text>
+           id="tspan3698"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="15.970734"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3700"><tspan
            y="33.513618"
            x="15.970734"
            sodipodi:role="line"
-           id="tspan3702">go-jump</tspan></text>
+           id="tspan3702"
+           style="font-size:10px;line-height:1.25">go-jump</tspan></text>
       <rect
          y="552"
          x="16.000031"
          width="256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="256x256"
          id="rect3347-3-7-93-6"
          height="256" />
@@ -11778,7 +11830,7 @@
      id="g3948"
      inkscape:groupmode="layer">
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="baseplate"
        id="g3950"
        inkscape:groupmode="layer">
@@ -11786,7 +11838,7 @@
          y="50"
          x="106"
          width="48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="48x48"
          id="rect3952"
          height="48" />
@@ -11794,7 +11846,7 @@
          y="126"
          x="113"
          width="32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="32x32"
          id="rect3954"
          height="32" />
@@ -11802,7 +11854,7 @@
          y="176"
          x="112"
          width="24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="24x24"
          id="rect3956"
          height="24" />
@@ -11810,7 +11862,7 @@
          y="177"
          x="113"
          width="22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="22x22"
          id="rect3958"
          height="22" />
@@ -11818,7 +11870,7 @@
          y="219"
          x="113"
          width="16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="16x16"
          id="rect3960"
          height="16" />
@@ -11826,25 +11878,26 @@
          y="21.513618"
          xml:space="preserve"
          x="94.970734"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3962"><tspan
            y="21.513618"
            x="94.970734"
            sodipodi:role="line"
-           id="tspan3964">actions</tspan></text>
+           id="tspan3964"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="95.970734"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3966"><tspan
            y="33.513618"
            x="95.970734"
            sodipodi:role="line"
-           id="tspan3968">go-bottom</tspan></text>
+           id="tspan3968"
+           style="font-size:10px;line-height:1.25">go-bottom</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -12212,12 +12265,12 @@
        inkscape:groupmode="layer"
        id="g4009"
        inkscape:label="baseplate"
-       style="display:none">
+       style="display:inline">
       <rect
          height="48"
          id="rect4011"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="186"
          y="50" />
@@ -12225,7 +12278,7 @@
          height="32"
          id="rect4013"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="193"
          y="126" />
@@ -12233,7 +12286,7 @@
          height="24"
          id="rect4015"
          inkscape:label="24x24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="24"
          x="192"
          y="176" />
@@ -12241,7 +12294,7 @@
          height="22"
          id="rect4017"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="193"
          y="177" />
@@ -12249,33 +12302,34 @@
          height="16"
          id="rect4019"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="193"
          y="219" />
       <text
          id="text4021"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="174.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan4023"
            sodipodi:role="line"
            x="174.97073"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text4025"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="175.97073"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan4027"
            sodipodi:role="line"
            x="175.97073"
-           y="33.513618">go-down</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-down</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -12640,13 +12694,12 @@
        inkscape:groupmode="layer"
        id="g4123"
        inkscape:label="baseplate"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          height="48"
          id="rect4125"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="276"
          y="50" />
@@ -12654,7 +12707,7 @@
          height="32"
          id="rect4127"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="283"
          y="126" />
@@ -12662,7 +12715,7 @@
          height="24"
          id="rect4129"
          inkscape:label="24x24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="24"
          x="282"
          y="176" />
@@ -12670,7 +12723,7 @@
          height="22"
          id="rect4131"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="283"
          y="177" />
@@ -12678,33 +12731,34 @@
          height="16"
          id="rect4133"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="283"
          y="219" />
       <text
          id="text4135"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="264.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan4137"
            sodipodi:role="line"
            x="264.97073"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text4139"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="265.97073"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan4141"
            sodipodi:role="line"
            x="265.97073"
-           y="33.513618">go-top</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-top</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -13089,7 +13143,7 @@
      id="g3029"
      inkscape:groupmode="layer">
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="baseplate"
        id="g3031"
        inkscape:groupmode="layer">
@@ -13097,7 +13151,7 @@
          y="50"
          x="366"
          width="48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="48x48"
          id="rect3033"
          height="48" />
@@ -13105,7 +13159,7 @@
          y="126"
          x="373"
          width="32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="32x32"
          id="rect3035"
          height="32" />
@@ -13113,7 +13167,7 @@
          y="176"
          x="372"
          width="24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="24x24"
          id="rect3037"
          height="24" />
@@ -13121,7 +13175,7 @@
          y="177"
          x="373"
          width="22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="22x22"
          id="rect3039"
          height="22" />
@@ -13129,7 +13183,7 @@
          y="219"
          x="373"
          width="16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="16x16"
          id="rect3041"
          height="16" />
@@ -13137,25 +13191,26 @@
          y="21.513618"
          xml:space="preserve"
          x="354.97073"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3043"><tspan
            y="21.513618"
            x="354.97073"
            sodipodi:role="line"
-           id="tspan3045">actions</tspan></text>
+           id="tspan3045"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="355.97073"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3047"><tspan
            y="33.513618"
            x="355.97073"
            sodipodi:role="line"
-           id="tspan3049">go-up</tspan></text>
+           id="tspan3049"
+           style="font-size:10px;line-height:1.25">go-up</tspan></text>
     </g>
     <g
        style="display:inline"
@@ -13521,7 +13576,7 @@
      id="g3343"
      inkscape:groupmode="layer">
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="baseplate"
        id="g3345"
        inkscape:groupmode="layer">
@@ -13529,7 +13584,7 @@
          y="50"
          x="456"
          width="48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="48x48"
          id="rect3347"
          height="48" />
@@ -13537,7 +13592,7 @@
          y="126"
          x="463"
          width="32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="32x32"
          id="rect3349"
          height="32" />
@@ -13545,7 +13600,7 @@
          y="176"
          x="462"
          width="24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="24x24"
          id="rect3351"
          height="24" />
@@ -13553,7 +13608,7 @@
          y="177"
          x="463"
          width="22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="22x22"
          id="rect3353"
          height="22" />
@@ -13561,7 +13616,7 @@
          y="219"
          x="463"
          width="16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="16x16"
          id="rect3355"
          height="16" />
@@ -13569,30 +13624,31 @@
          y="21.513618"
          xml:space="preserve"
          x="444.97073"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3357"><tspan
            y="21.513618"
            x="444.97073"
            sodipodi:role="line"
-           id="tspan3359">actions</tspan></text>
+           id="tspan3359"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="445.97073"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3361"><tspan
            y="33.513618"
            x="445.97073"
            sodipodi:role="line"
-           id="tspan3363">go-first</tspan></text>
+           id="tspan3363"
+           style="font-size:10px;line-height:1.25">go-first</tspan></text>
       <rect
          y="272"
          x="16.000031"
          width="256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="256x256"
          id="rect3347-3-7-93"
          height="256" />
@@ -13606,7 +13662,7 @@
          height="48"
          id="rect5818"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="456"
          y="50" />
@@ -13614,7 +13670,7 @@
          height="32"
          id="rect5820"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="463"
          y="126" />
@@ -13622,7 +13678,7 @@
          height="24"
          id="rect5822"
          inkscape:label="24x24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="24"
          x="462"
          y="176" />
@@ -13630,7 +13686,7 @@
          height="22"
          id="rect5824"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="463"
          y="177" />
@@ -13638,38 +13694,39 @@
          height="16"
          id="rect5826"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="463"
          y="219" />
       <text
          id="text5828"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="444.97073"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan5830"
            sodipodi:role="line"
            x="444.97073"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text5832"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="445.97073"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan5834"
            sodipodi:role="line"
            x="445.97073"
-           y="33.513618">go-last-rtl</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-last-rtl</tspan></text>
       <rect
          height="256"
          id="rect5836"
          inkscape:label="256x256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="256"
          x="16.000031"
          y="272" />
@@ -14217,12 +14274,12 @@
        inkscape:groupmode="layer"
        id="layer4"
        inkscape:label="baseplate"
-       style="display:none">
+       style="display:inline">
       <rect
          height="48"
          id="rect6284"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="536"
          y="50" />
@@ -14230,7 +14287,7 @@
          height="32"
          id="rect6592"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="543"
          y="126" />
@@ -14238,7 +14295,7 @@
          height="24"
          id="rect3197"
          inkscape:label="24x24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="24"
          x="542"
          y="176" />
@@ -14246,7 +14303,7 @@
          height="22"
          id="rect6749"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="543"
          y="177" />
@@ -14254,38 +14311,39 @@
          height="16"
          id="rect6833"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="543"
          y="219" />
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="524.9707"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="524.9707"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="525.9707"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan3023"
            sodipodi:role="line"
            x="525.9707"
-           y="33.513618">go-previous</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-previous</tspan></text>
       <rect
          y="272"
          x="296"
          width="256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="256x256"
          id="rect3347-3-7"
          height="256" />
@@ -14299,7 +14357,7 @@
          y="50"
          x="536"
          width="48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="48x48"
          id="rect5840"
          height="48" />
@@ -14307,7 +14365,7 @@
          y="126"
          x="543"
          width="32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="32x32"
          id="rect5842"
          height="32" />
@@ -14315,7 +14373,7 @@
          y="176"
          x="542"
          width="24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="24x24"
          id="rect5844"
          height="24" />
@@ -14323,7 +14381,7 @@
          y="177"
          x="543"
          width="22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="22x22"
          id="rect5846"
          height="22" />
@@ -14331,7 +14389,7 @@
          y="219"
          x="543"
          width="16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="16x16"
          id="rect5848"
          height="16" />
@@ -14339,30 +14397,31 @@
          y="21.513618"
          xml:space="preserve"
          x="524.9707"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text5850"><tspan
            y="21.513618"
            x="524.9707"
            sodipodi:role="line"
-           id="tspan5852">actions</tspan></text>
+           id="tspan5852"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="525.9707"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text5854"><tspan
            y="33.513618"
            x="525.9707"
            sodipodi:role="line"
-           id="tspan5856">go-next-rtl</tspan></text>
+           id="tspan5856"
+           style="font-size:10px;line-height:1.25">go-next-rtl</tspan></text>
       <rect
          height="256"
          id="rect5858"
          inkscape:label="256x256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="256"
          x="296"
          y="272" />
@@ -14901,12 +14960,12 @@
        inkscape:groupmode="layer"
        id="g3413"
        inkscape:label="baseplate"
-       style="display:none">
+       style="display:inline">
       <rect
          height="48"
          id="rect3415"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="616"
          y="50" />
@@ -14914,7 +14973,7 @@
          height="32"
          id="rect3417"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="623"
          y="126" />
@@ -14922,7 +14981,7 @@
          height="24"
          id="rect3419"
          inkscape:label="24x24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="24"
          x="622"
          y="176" />
@@ -14930,7 +14989,7 @@
          height="22"
          id="rect3421"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="623"
          y="177" />
@@ -14938,38 +14997,39 @@
          height="16"
          id="rect3423"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="623"
          y="219" />
       <text
          id="text3425"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="604.9707"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3427"
            sodipodi:role="line"
            x="604.9707"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text3429"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="605.9707"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan3431"
            sodipodi:role="line"
            x="605.9707"
-           y="33.513618">view-refresh</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">view-refresh</tspan></text>
       <rect
          y="552"
          x="296"
          width="256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="256x256"
          id="rect3347-3-7-0"
          height="256" />
@@ -15396,7 +15456,7 @@
      id="g3898"
      inkscape:groupmode="layer">
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="baseplate"
        id="g3900"
        inkscape:groupmode="layer">
@@ -15404,7 +15464,7 @@
          y="50"
          x="696"
          width="48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="48x48"
          id="rect3902"
          height="48" />
@@ -15412,7 +15472,7 @@
          y="126"
          x="703"
          width="32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="32x32"
          id="rect3904"
          height="32" />
@@ -15420,7 +15480,7 @@
          y="176"
          x="702"
          width="24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="24x24"
          id="rect3906"
          height="24"
@@ -15431,7 +15491,7 @@
          y="177"
          x="703"
          width="22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="22x22"
          id="rect3908"
          height="22"
@@ -15442,7 +15502,7 @@
          y="219"
          x="703"
          width="16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="16x16"
          id="rect3910"
          height="16" />
@@ -15450,30 +15510,31 @@
          y="21.513618"
          xml:space="preserve"
          x="684.9707"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3912"><tspan
            y="21.513618"
            x="684.9707"
            sodipodi:role="line"
-           id="tspan3914">actions</tspan></text>
+           id="tspan3914"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="685.9707"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3916"><tspan
            y="33.513618"
            x="685.9707"
            sodipodi:role="line"
-           id="tspan3918">process-stop</tspan></text>
+           id="tspan3918"
+           style="font-size:10px;line-height:1.25">process-stop</tspan></text>
       <rect
          y="552"
          x="576"
          width="256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="256x256"
          id="rect3347-3-7-0-8"
          height="256" />
@@ -15849,12 +15910,12 @@
        inkscape:groupmode="layer"
        id="layer7"
        inkscape:label="baseplate"
-       style="display:none">
+       style="display:inline">
       <rect
          height="48"
          id="rect3229"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="775.99969"
          y="50" />
@@ -15862,7 +15923,7 @@
          height="32"
          id="rect3231"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="782.99969"
          y="126" />
@@ -15870,7 +15931,7 @@
          height="24"
          id="rect3245"
          inkscape:label="24x24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="24"
          x="781.99969"
          y="176" />
@@ -15878,7 +15939,7 @@
          height="22"
          id="rect3233"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="782.99969"
          y="177" />
@@ -15886,38 +15947,39 @@
          height="16"
          id="rect3235"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="782.99969"
          y="219" />
       <text
          id="text3237"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="764.9704"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan3239"
            sodipodi:role="line"
            x="764.9704"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text3241"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="765.9704"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan3243"
            sodipodi:role="line"
            x="765.9704"
-           y="33.513618">go-next</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-next</tspan></text>
       <rect
          y="272"
          x="-832"
          width="256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="256x256"
          id="rect3347-3-7-9"
          height="256"
@@ -15932,7 +15994,7 @@
          y="50"
          x="775.99969"
          width="48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="48x48"
          id="rect5862"
          height="48" />
@@ -15940,7 +16002,7 @@
          y="126"
          x="782.99969"
          width="32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="32x32"
          id="rect5864"
          height="32" />
@@ -15948,7 +16010,7 @@
          y="176"
          x="781.99969"
          width="24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="24x24"
          id="rect5866"
          height="24" />
@@ -15956,7 +16018,7 @@
          y="177"
          x="782.99969"
          width="22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="22x22"
          id="rect5868"
          height="22" />
@@ -15964,7 +16026,7 @@
          y="219"
          x="782.99969"
          width="16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="16x16"
          id="rect5870"
          height="16" />
@@ -15972,31 +16034,32 @@
          y="21.513618"
          xml:space="preserve"
          x="764.9704"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text5872"><tspan
            y="21.513618"
            x="764.9704"
            sodipodi:role="line"
-           id="tspan5874">actions</tspan></text>
+           id="tspan5874"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="765.9704"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text5876"><tspan
            y="33.513618"
            x="765.9704"
            sodipodi:role="line"
-           id="tspan5878">go-previous-rtl</tspan></text>
+           id="tspan5878"
+           style="font-size:10px;line-height:1.25">go-previous-rtl</tspan></text>
       <rect
          transform="scale(-1,1)"
          height="256"
          id="rect5880"
          inkscape:label="256x256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="256"
          x="-832"
          y="272" />
@@ -16527,7 +16590,7 @@
      id="g3153"
      inkscape:groupmode="layer">
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="baseplate"
        id="g3155"
        inkscape:groupmode="layer">
@@ -16535,7 +16598,7 @@
          y="50"
          x="855.99969"
          width="48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="48x48"
          id="rect3157"
          height="48" />
@@ -16543,7 +16606,7 @@
          y="126"
          x="862.99969"
          width="32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="32x32"
          id="rect3159"
          height="32" />
@@ -16551,7 +16614,7 @@
          y="176"
          x="861.99969"
          width="24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="24x24"
          id="rect3161"
          height="24" />
@@ -16559,7 +16622,7 @@
          y="177"
          x="862.99969"
          width="22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="22x22"
          id="rect3163"
          height="22" />
@@ -16567,7 +16630,7 @@
          y="219"
          x="862.99969"
          width="16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="16x16"
          id="rect3165"
          height="16" />
@@ -16575,30 +16638,31 @@
          y="21.513618"
          xml:space="preserve"
          x="844.9704"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text3167"><tspan
            y="21.513618"
            x="844.9704"
            sodipodi:role="line"
-           id="tspan3169">actions</tspan></text>
+           id="tspan3169"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          y="33.513618"
          xml:space="preserve"
          x="845.9704"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text3171"><tspan
            y="33.513618"
            x="845.9704"
            sodipodi:role="line"
-           id="tspan3173">go-last</tspan></text>
+           id="tspan3173"
+           style="font-size:10px;line-height:1.25">go-last</tspan></text>
       <rect
          y="272"
          x="-1112"
          width="256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:label="256x256"
          id="rect3347-3-75"
          height="256"
@@ -16613,7 +16677,7 @@
          height="48"
          id="rect5884"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="855.99969"
          y="50" />
@@ -16621,7 +16685,7 @@
          height="32"
          id="rect5886"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="862.99969"
          y="126" />
@@ -16629,7 +16693,7 @@
          height="24"
          id="rect5888"
          inkscape:label="24x24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="24"
          x="861.99969"
          y="176" />
@@ -16637,7 +16701,7 @@
          height="22"
          id="rect5890"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="862.99969"
          y="177" />
@@ -16645,39 +16709,40 @@
          height="16"
          id="rect5892"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="862.99969"
          y="219" />
       <text
          id="text5894"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="844.9704"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan5896"
            sodipodi:role="line"
            x="844.9704"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text5898"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="845.9704"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan5900"
            sodipodi:role="line"
            x="845.9704"
-           y="33.513618">go-first-rtl</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-first-rtl</tspan></text>
       <rect
          transform="scale(-1,1)"
          height="256"
          id="rect5902"
          inkscape:label="256x256"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="256"
          x="-1112"
          y="272" />
@@ -17250,13 +17315,12 @@
        inkscape:groupmode="layer"
        id="g4170"
        inkscape:label="baseplate"
-       style="display:none"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          height="48"
          id="rect4172"
          inkscape:label="48x48"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="48"
          x="935.99969"
          y="50" />
@@ -17264,7 +17328,7 @@
          height="32"
          id="rect4174"
          inkscape:label="32x32"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="32"
          x="942.99969"
          y="126" />
@@ -17272,7 +17336,7 @@
          height="24"
          id="rect4176"
          inkscape:label="24x24"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="24"
          x="941.99969"
          y="176" />
@@ -17280,7 +17344,7 @@
          height="22"
          id="rect4178"
          inkscape:label="22x22"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="22"
          x="942.99969"
          y="177" />
@@ -17288,33 +17352,34 @@
          height="16"
          id="rect4180"
          inkscape:label="16x16"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          width="16"
          x="942.99969"
          y="219" />
       <text
          id="text4182"
          inkscape:label="context"
-         style="font-size:10px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Bitstream Vera Sans"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="924.9704"
          xml:space="preserve"
          y="21.513618"><tspan
            id="tspan4184"
            sodipodi:role="line"
            x="924.9704"
-           y="21.513618">actions</tspan></text>
+           y="21.513618"
+           style="font-size:10px;line-height:1.25">actions</tspan></text>
       <text
          id="text4186"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="925.9704"
          xml:space="preserve"
          y="33.513618"><tspan
            id="tspan4188"
            sodipodi:role="line"
            x="925.9704"
-           y="33.513618">go-home</tspan></text>
+           y="33.513618"
+           style="font-size:10px;line-height:1.25">go-home</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
