@@ -2,14 +2,6 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90.000000"
    inkscape:export-xdpi="90.000000"
    inkscape:export-filename="/home/lapo/firewall.png"
@@ -17,18 +9,26 @@
    height="600"
    id="svg11300"
    sodipodi:version="0.32"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="audio-headphones.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
-   style="display:inline;enable-background:new">
+   style="display:inline;enable-background:new"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <title
      id="title4872">Firewall</title>
   <sodipodi:namedview
      stroke="#ef2929"
      fill="#f57900"
      id="base"
-     pagecolor="#303030"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="0.25490196"
      inkscape:pageopacity="0"
@@ -36,7 +36,7 @@
      inkscape:zoom="1"
      inkscape:cx="326.03157"
      inkscape:cy="457.65203"
-     inkscape:current-layer="g75699"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
@@ -55,7 +55,9 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-maximized="1"
-     inkscape:bbox-paths="true">
+     inkscape:bbox-paths="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        spacingy="1px"
        spacingx="1px"
@@ -64,7 +66,10 @@
        enabled="true"
        visible="true"
        empspacing="4"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       units="px" />
     <inkscape:grid
        type="xygrid"
        id="grid11592"
@@ -77,11 +82,15 @@
        opacity="0.1254902"
        empcolor="#ff0000"
        empopacity="0.25098039"
-       snapvisiblegridlinesonly="true" />
+       snapvisiblegridlinesonly="true"
+       originx="0"
+       originy="0"
+       units="px" />
     <sodipodi:guide
        orientation="-0.70710678,0.70710678"
        position="309.8125,173.625"
-       id="guide9630" />
+       id="guide9630"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -368,8 +377,8 @@
        id="filter11278-7"
        x="-0.38459891"
        width="1.7691978"
-       y="-0.70509803"
-       height="2.4101961">
+       y="-0.70509801"
+       height="2.410196">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="7.0509801"
@@ -379,10 +388,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter11310-8"
-       x="-0.32911456"
-       width="1.6582291"
-       y="-0.60337675"
-       height="2.2067535">
+       x="-0.32911458"
+       width="1.6582292"
+       y="-0.60337672"
+       height="2.2067534">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="6.0337672"
@@ -392,10 +401,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter11314-1"
-       x="-0.32911456"
-       width="1.6582291"
-       y="-0.60337675"
-       height="2.2067535">
+       x="-0.32911458"
+       width="1.6582292"
+       y="-0.60337672"
+       height="2.2067534">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="6.0337672"
@@ -405,10 +414,10 @@
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
        id="filter11310-8-6"
-       x="-0.32911456"
-       width="1.6582291"
-       y="-0.60337675"
-       height="2.2067535">
+       x="-0.32911458"
+       width="1.6582292"
+       y="-0.60337672"
+       height="2.2067534">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="6.0337672"
@@ -419,7 +428,7 @@
        id="filter11451"
        x="-0.46781996"
        width="1.9356399"
-       y="-0.85766995"
+       y="-0.85766993"
        height="2.7153399"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
@@ -2058,7 +2067,7 @@
        style="display:none"
        sodipodi:insensitive="true">
       <rect
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="rect6284"
          width="48"
          height="48"
@@ -2072,7 +2081,7 @@
          height="32"
          width="32"
          id="rect6592"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
       <rect
          inkscape:label="24x24"
          y="178"
@@ -2080,7 +2089,7 @@
          height="24"
          width="24"
          id="rect5028"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
       <rect
          inkscape:label="22x22"
          y="178"
@@ -2088,9 +2097,9 @@
          height="24"
          width="24"
          id="rect11581"
-         style="fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="display:inline;overflow:visible;visibility:visible;fill:#babdb6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
       <rect
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="rect6749"
          width="22"
          height="22"
@@ -2104,25 +2113,23 @@
          height="16"
          width="16"
          id="rect6833"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate" />
       <text
          id="context"
          inkscape:label="context"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="31.87059"
          xml:space="preserve"
-         y="18.860306"
-         sodipodi:linespacing="125%"><tspan
+         y="18.860306"><tspan
            id="tspan2716"
            sodipodi:role="line"
            x="31.87059"
            y="18.860306"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell">devices</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;text-anchor:start">devices</tspan></text>
       <text
          id="icon-name"
          inkscape:label="icon-name"
-         sodipodi:linespacing="125%"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          x="109.87057"
          xml:space="preserve"
          y="18.860306"><tspan
@@ -2130,7 +2137,7 @@
            sodipodi:role="line"
            x="109.87057"
            y="18.860306"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold">audio-headset</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;text-anchor:start">audio-headset</tspan></text>
       <rect
          inkscape:label="256x256"
          y="32"
@@ -2138,13 +2145,13 @@
          height="256"
          width="256"
          id="rect6282"
-         style="fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="display:inline;overflow:visible;visibility:visible;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#729fcf;fill-opacity:0.48623855;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 20,32 0,238 0,18 18,0 220,0 18,0 0,-18 0,-238 -18,0 0,238 -220,0 0,-238 -18,0 z"
+         style="display:inline;overflow:visible;visibility:visible;fill:#729fcf;fill-opacity:0.486239;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         d="m 20,32 v 238 18 h 18 220 18 V 270 32 H 258 V 270 H 38 V 32 Z"
          id="rect17464-3" />
     </g>
     <g
@@ -3457,14 +3464,13 @@
          y="-79"
          inkscape:label="16x16" />
       <text
-         sodipodi:linespacing="125%"
          y="-281.13968"
          xml:space="preserve"
          x="31.87059"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="context"
          id="text23710"><tspan
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="-281.13968"
            x="31.87059"
            sodipodi:role="line"
@@ -3473,11 +3479,10 @@
          y="-281.13968"
          xml:space="preserve"
          x="109.87057"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
-         sodipodi:linespacing="125%"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
          inkscape:label="icon-name"
          id="text23714"><tspan
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Cantarell;-inkscape-font-specification:Cantarell Bold"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="-281.13968"
            x="109.87057"
            sodipodi:role="line"
