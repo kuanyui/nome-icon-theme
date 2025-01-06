@@ -51,17 +51,6 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7271">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.277551;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-         id="rect7273"
-         width="169.87607"
-         height="320.87704"
-         x="-13.799555"
-         y="29.382828" />
-    </clipPath>
     <filter
        id="filter7746"
        inkscape:collect="always"
@@ -307,16 +296,28 @@
        y1="167.65709"
        x2="84.366013"
        y2="10.211316" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask1">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999999;marker:none;enable-background:new"
+         id="rect1"
+         width="169.87607"
+         height="320.87704"
+         x="-13.799547"
+         y="29.382828" />
+    </mask>
   </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       clip-path="url(#clipPath7271)"
+       clip-path="none"
        transform="matrix(-0.22477424,0,0,0.22477424,57.98549,-11.502888)"
        id="g8443"
-       style="display:inline;enable-background:new">
+       style="display:inline;enable-background:new"
+       mask="url(#mask1)">
       <path
          sodipodi:type="star"
          style="opacity:0.212245;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:4.94814;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7746)"

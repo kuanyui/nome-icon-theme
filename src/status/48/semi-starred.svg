@@ -51,17 +51,6 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath7271">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.277551;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-         id="rect7273"
-         width="169.87607"
-         height="320.87704"
-         x="-13.799555"
-         y="29.382828" />
-    </clipPath>
     <filter
        id="filter7746"
        inkscape:collect="always"
@@ -307,6 +296,17 @@
        y1="167.65709"
        x2="84.366013"
        y2="10.211316" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask1">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999999;marker:none;enable-background:new"
+         id="rect1"
+         width="169.87607"
+         height="320.87704"
+         x="-13.799555"
+         y="29.38283" />
+    </mask>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -315,8 +315,9 @@
     <g
        id="g6892"
        transform="matrix(0.22477424,0,0,0.22477424,-10.98043,-11.502879)"
-       clip-path="url(#clipPath7271)"
-       style="display:inline;enable-background:new">
+       clip-path="none"
+       style="display:inline;enable-background:new"
+       mask="url(#mask1)">
       <path
          transform="matrix(0.89910644,0,0,0.89910644,66.829812,90.426503)"
          inkscape:transform-center-y="-8.7728476"
