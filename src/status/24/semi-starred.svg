@@ -64,17 +64,6 @@
          stdDeviation="4.937271"
          id="feGaussianBlur6305-8-6" />
     </filter>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath8227">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.293878;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-         id="rect8229"
-         width="14.4375"
-         height="29.0625"
-         x="299.6875"
-         y="174.875" />
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7674-0"
@@ -294,6 +283,18 @@
        y1="167.65709"
        x2="84.366013"
        y2="10.211316" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask1">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect1"
+         width="14.4375"
+         height="29.0625"
+         x="299.6875"
+         y="174.875"
+         inkscape:label="MASK" />
+    </mask>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -320,8 +321,9 @@
     <g
        id="g6972"
        transform="translate(-302,-176)"
-       clip-path="url(#clipPath8227)"
-       style="display:inline;enable-background:new">
+       clip-path="none"
+       style="display:inline;enable-background:new"
+       mask="url(#mask1)">
       <path
          transform="matrix(0.0996272,0,0,0.0996272,304.29419,179.87206)"
          inkscape:transform-center-y="-4.3247497"
