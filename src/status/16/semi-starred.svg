@@ -52,17 +52,6 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath8332">
-      <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.293878;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
-         id="rect8334"
-         width="26.102646"
-         height="40.964008"
-         x="288.28391"
-         y="170.5547" />
-    </clipPath>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7674-0"
@@ -293,6 +282,18 @@
        y1="167.65709"
        x2="84.366013"
        y2="10.211316" />
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask1">
+      <rect
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:new"
+         id="rect1"
+         width="26.102646"
+         height="40.964008"
+         x="288.28391"
+         y="170.5547"
+         inkscape:label="MASK" />
+    </mask>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -301,8 +302,9 @@
     <g
        id="g7012"
        transform="matrix(0.65606375,0,0,0.65606375,-198.13262,-115.39476)"
-       clip-path="url(#clipPath8332)"
-       style="display:inline;enable-background:new">
+       clip-path="none"
+       style="display:inline;enable-background:new"
+       mask="url(#mask1)">
       <path
          sodipodi:type="star"
          style="display:inline;fill:#edd400;stroke:url(#linearGradient1);stroke-width:15.2995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
