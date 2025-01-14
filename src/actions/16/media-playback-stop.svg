@@ -7,10 +7,11 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="_empty_16.svg"
+   inkscape:version="1.4 (unknown)"
+   sodipodi:docname="media-playback-stop.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -50,9 +51,113 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4636-06"
+       id="linearGradient4642-4"
+       x1="226"
+       y1="116"
+       x2="210"
+       y2="100"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4636-06">
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0"
+         id="stop4638-29" />
+      <stop
+         id="stop4650-90"
+         offset="0.38413855"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop4648-81"
+         offset="0.58748281"
+         style="stop-color:#d3d7cf;stop-opacity:1" />
+      <stop
+         id="stop4646-31"
+         offset="0.69887376"
+         style="stop-color:#eeeeec;stop-opacity:1" />
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1;"
+         offset="1"
+         id="stop4640-10" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4586-4"
+       id="linearGradient4584-3"
+       x1="226"
+       y1="116"
+       x2="226"
+       y2="100"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient4586-4">
+      <stop
+         style="stop-color:#888a85;stop-opacity:1"
+         offset="0"
+         id="stop4588-03" />
+      <stop
+         id="stop4590-9"
+         offset="0.25"
+         style="stop-color:#888a85;stop-opacity:1" />
+      <stop
+         id="stop4592-1"
+         offset="0.69999999"
+         style="stop-color:#babdb6;stop-opacity:1" />
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="1"
+         id="stop4594-96" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(208,98)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient7206-3"
+       inkscape:collect="always"
+       x1="5.3144054"
+       x2="9.0331554"
+       xlink:href="#linearGradient7471-5"
+       y1="7.3891144"
+       y2="18.703299" />
+    <linearGradient
+       id="linearGradient7471-5"
+       inkscape:collect="always">
+      <stop
+         id="stop7473-4"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop7475-3"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.49803922" />
+    </linearGradient>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <g
+       id="g16-9"
+       style="display:inline;enable-background:new">
+      <g
+         id="g8195"
+         transform="translate(-210,-100)">
+        <path
+           d="m 213.5,111.5 v -8 h 8 v 8 z"
+           id="path7089"
+           sodipodi:nodetypes="ccccc"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4642-4);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4584-3);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.7;stroke-opacity:1;marker:none;enable-background:accumulate"
+           inkscape:connector-curvature="0" />
+        <path
+           d="m 214.5,110.5 v -6 h 6 v 6 z"
+           id="path7091"
+           sodipodi:nodetypes="ccccc"
+           style="opacity:0.8;fill:none;stroke:url(#linearGradient7206-3);stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0.7;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
 </svg>

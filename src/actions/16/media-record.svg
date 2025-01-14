@@ -7,10 +7,11 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="_empty_16.svg"
+   inkscape:version="1.4 (unknown)"
+   sodipodi:docname="media-record.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -50,9 +51,99 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <radialGradient
+       cx="15.865708"
+       cy="20.410854"
+       fx="15.865708"
+       fy="20.410854"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5173"
+       inkscape:collect="always"
+       r="7.5896134"
+       xlink:href="#linearGradient5167" />
+    <linearGradient
+       id="linearGradient5167">
+      <stop
+         id="stop5169"
+         offset="0"
+         style="stop-color:#ef2929;stop-opacity:1;" />
+      <stop
+         id="stop5171"
+         offset="1"
+         style="stop-color:#c60e0e;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       cx="15.5"
+       cy="10.482457"
+       fx="15.5"
+       fy="10.482457"
+       gradientTransform="matrix(-0.9904951,0.2132532,0.1608534,0.7471134,21.353486,-6.2146383)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5190"
+       inkscape:collect="always"
+       r="5.96875"
+       xlink:href="#linearGradient5184" />
+    <linearGradient
+       id="linearGradient5184"
+       inkscape:collect="always">
+      <stop
+         id="stop5186"
+         offset="0"
+         style="stop-color:white;stop-opacity:1;" />
+      <stop
+         id="stop5188"
+         offset="1"
+         style="stop-color:white;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5178"
+       inkscape:collect="always"
+       x1="8.0902433"
+       x2="18.276934"
+       xlink:href="#linearGradient5184"
+       y1="16.134291"
+       y2="30.410894" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <g
+       id="g16-91"
+       style="display:inline;enable-background:new">
+      <g
+         id="g8366"
+         transform="translate(-1)">
+        <g
+           id="g8355"
+           inkscape:label="Layer 1"
+           transform="matrix(0.7827925,0,0,0.7827871,2.149484,1.2368854)">
+          <circle
+             id="path5165"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient5173);fill-opacity:1;fill-rule:nonzero;stroke:#a40000;stroke-width:1.42276;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+             transform="matrix(0.897875,0,0,0.897908,-6.134029,-6.484624)"
+             cx="15.865708"
+             cy="16.134291"
+             r="7.115262" />
+          <path
+             d="M 7.4277519,3.9588593 C 9.1541724,3.7002381 10.813002,4.7662506 11.307734,6.4358175 10.902672,7.5179903 9.9759903,8.3787011 8.7633247,8.639788 6.9591147,9.0282345 5.1848905,7.9498905 4.6690146,6.2089747 5.0740763,5.1268019 6.000758,4.2660912 7.213424,4.0050042 7.287367,3.9890842 7.3539731,3.9699115 7.4277519,3.9588593 Z"
+             id="path5175"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.640449;fill:url(#radialGradient5190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09466;marker:none"
+             inkscape:connector-curvature="0" />
+          <circle
+             id="path4297"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.544944;fill:none;stroke:url(#linearGradient5178);stroke-width:1.77935;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+             transform="matrix(0.7179363,0,0,0.717963,-3.2791606,-3.5813279)"
+             cx="15.865708"
+             cy="16.134291"
+             r="7.115262" />
+        </g>
+      </g>
+      <g
+         id="g81"
+         transform="translate(-88)" />
+    </g>
+  </g>
 </svg>

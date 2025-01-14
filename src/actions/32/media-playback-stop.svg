@@ -7,10 +7,11 @@
    viewBox="0 0 32 32"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="_empty_32.svg"
+   inkscape:version="1.4 (unknown)"
+   sodipodi:docname="media-playback-stop.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -49,9 +50,156 @@
        visible="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9066">
+      <path
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="1.5"
+         inkscape:original="M 301.8125 214.5 C 301.64733 214.5 301.5 214.64017 301.5 214.8125 L 301.5 229.1875 C 301.5 229.35983 301.64733 229.5 301.8125 229.5 L 316.1875 229.5 C 316.35267 229.5 316.5 229.35983 316.5 229.1875 L 316.5 214.8125 C 316.5 214.64017 316.35267 214.5 316.1875 214.5 L 301.8125 214.5 z "
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+         id="path9068"
+         d="M 301.8125,213 C 300.79869,213 300,213.78524 300,214.8125 v 14.375 c 0,1.02726 0.79869,1.8125 1.8125,1.8125 h 14.375 c 1.01381,0 1.8125,-0.78524 1.8125,-1.8125 v -14.375 C 318,213.78524 317.20131,213 316.1875,213 Z"
+         transform="translate(0,-20)" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       id="filter9074"
+       color-interpolation-filters="sRGB"
+       x="-0.091555557"
+       y="-0.091555557"
+       width="1.1831111"
+       height="1.1831111">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.27"
+         id="feGaussianBlur9076" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter7858-1"
+       inkscape:collect="always"
+       x="-0.16906666"
+       y="-0.16906666"
+       width="1.3381333"
+       height="1.3381333">
+      <feGaussianBlur
+         id="feGaussianBlur7860-9"
+         inkscape:collect="always"
+         stdDeviation="0.64" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4636-9-4"
+       id="linearGradient4642-6-9"
+       x1="325"
+       y1="238"
+       x2="293"
+       y2="206"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-293,-206)" />
+    <linearGradient
+       id="linearGradient4636-9-4">
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0"
+         id="stop4638-7-8" />
+      <stop
+         id="stop4650-5-90"
+         offset="0.38413855"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         id="stop4648-43-0"
+         offset="0.58748281"
+         style="stop-color:#d3d7cf;stop-opacity:1" />
+      <stop
+         id="stop4646-3-8"
+         offset="0.69887376"
+         style="stop-color:#eeeeec;stop-opacity:1" />
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1;"
+         offset="1"
+         id="stop4640-9-2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4586-6-62"
+       id="linearGradient4584-8-25"
+       x1="325"
+       y1="238"
+       x2="325"
+       y2="206"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-293,-206)" />
+    <linearGradient
+       id="linearGradient4586-6-62">
+      <stop
+         style="stop-color:#888a85;stop-opacity:1"
+         offset="0"
+         id="stop4588-7-1" />
+      <stop
+         id="stop4590-92-81"
+         offset="0.25"
+         style="stop-color:#888a85;stop-opacity:1" />
+      <stop
+         id="stop4592-0-30"
+         offset="0.69999999"
+         style="stop-color:#babdb6;stop-opacity:1" />
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="1"
+         id="stop4594-8-77" />
+    </linearGradient>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <g
+       id="g9062"
+       clip-path="url(#clipPath9066)"
+       transform="translate(-293,-186)"
+       style="display:inline;opacity:0.5;filter:url(#filter9074);enable-background:new">
+      <path
+         transform="translate(0,-20)"
+         d="M 301.8125,213 C 300.79869,213 300,213.78524 300,214.8125 v 14.375 c 0,1.02726 0.79869,1.8125 1.8125,1.8125 h 14.375 c 1.01381,0 1.8125,-0.78524 1.8125,-1.8125 v -14.375 C 318,213.78524 317.20131,213 316.1875,213 Z"
+         id="path8969-2"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+         inkscape:original="M 301.8125 214.5 C 301.64733 214.5 301.5 214.64017 301.5 214.8125 L 301.5 229.1875 C 301.5 229.35983 301.64733 229.5 301.8125 229.5 L 316.1875 229.5 C 316.35267 229.5 316.5 229.35983 316.5 229.1875 L 316.5 214.8125 C 316.5 214.64017 316.35267 214.5 316.1875 214.5 L 301.8125 214.5 z "
+         inkscape:radius="1.5"
+         sodipodi:type="inkscape:offset" />
+      <rect
+         height="14.99934"
+         id="rect7888-8"
+         rx="0.29813311"
+         ry="0.31106219"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.7;stroke-opacity:1;marker:none;enable-background:accumulate"
+         width="14.999073"
+         x="302.00092"
+         y="195.50034" />
+    </g>
+    <path
+       style="display:inline;opacity:0.5;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.7;stroke-opacity:1;filter:url(#filter7858-1);enable-background:new"
+       sodipodi:nodetypes="ccccccccc"
+       id="path7886"
+       d="M 8.8125,9.5 C 8.64733,9.5 8.5,9.64017 8.5,9.8125 v 14.375 C 8.5,24.35983 8.64733,24.5 8.8125,24.5 h 14.375 C 23.35267,24.5 23.5,24.35983 23.5,24.1875 V 9.8125 C 23.5,9.64017 23.35267,9.5 23.1875,9.5 Z"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="8.5003357"
+       x="8.5009155"
+       width="14.999073"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4642-6-9);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4584-8-25);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.7;stroke-opacity:1;marker:none;enable-background:accumulate"
+       ry="0.31106219"
+       rx="0.29813311"
+       id="rect7888"
+       height="14.99934" />
+    <rect
+       y="9.5"
+       x="9.5"
+       width="13"
+       style="display:inline;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.7;stroke-opacity:1;enable-background:new"
+       id="rect7892"
+       height="13" />
+  </g>
 </svg>
