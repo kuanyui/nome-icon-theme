@@ -12,5 +12,7 @@ So this project is to... manually separate these icons of variable sizes in SVG 
 
 Tarball can be downloaded from [download.gnome.org](https://download.gnome.org/sources/gnome-icon-theme/3.12/)
 
+This project also contains some icons I drew. May forked from Ubuntu Humanity and GNOME Icon Theme.
+
 # License
 GPLv3
