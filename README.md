@@ -17,6 +17,9 @@ So this project is to... manually separate these icons of variable sizes in SVG 
 
 Tarball can be downloaded from [download.gnome.org](https://download.gnome.org/sources/gnome-icon-theme/3.12/)
 
+> [!NOTE]
+> The directory structure of `/src` follows XDG icon theme standard, but it doesn't provide `index.theme`, you have to write by yourself if you want to use this project as a XDG-compatible icon theme. See my another project [tango-icons-collection](https://github.com/kuanyui/tango-icons-collection) for detailed information.
+
 ## Differences against The Original GNOME Icon Theme
 Besides the independence of icons of each sizes, other differences, including but not limited to:
 
