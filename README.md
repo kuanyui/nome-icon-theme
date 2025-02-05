@@ -1,7 +1,10 @@
 # gnome-icon-theme-fork
 
+A fork of GNOME 2/3 default XDG icon theme, provided as SVG files. For people who feel nostalgic about Freedesktop Tango style icon.
+
 ## What is This?
-I prefer the icons following Tango design guidelines over flat design.
+
+I prefer the icons following Tango design guidelines over flat design. Yes I know flat design looks more unified but they are really hard to distinguish as icon.
 
 Tango design guidelines was promoted by Freedesktop.org, and was adopted by GNOME Project and Canonical Ubuntu in GNOME 2.x era.
 
