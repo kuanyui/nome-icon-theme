@@ -24,15 +24,15 @@ Tarball can be downloaded from [download.gnome.org](https://download.gnome.org/s
 > The directory structure of `/src` follows XDG icon theme standard, but it doesn't provide `index.theme`, you have to write by yourself if you want to use this project as a XDG-compatible icon theme. See my another project [tango-icons-collection](https://github.com/kuanyui/tango-icons-collection) for detailed information.
 
 ## Differences against The Original GNOME Icon Theme
-Besides the independence of icons of each sizes, other differences, including but not limited to:
+Besides the independence of icons of each sizes, other differences are, including but not limited to:
 
 ### Bug fixes
-Some icons have some problems (e.g. Wrong colors) so I fixed them manually:
+Some icons have some problems (e.g. Wrong colors) so fixed them manually:
 - `categories/{16,22}/applications-science`
 - `actions/16/system-search`
 
 ### Vectorization
-Some icons provide rasterized/pixmap version in some size, so redraw them manually:
+Some icons provide only rasterized/pixmap version in some sizes, so redraw them manually:
 - `categorizes/16/applications-graphics`
 
 ### Color adjust
