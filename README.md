@@ -43,6 +43,7 @@ The color of some icons are adjusted according to my personal preference:
 This project also contains some icons I drew (and some of them are forked from Ubuntu Humanity and GNOME Icon Theme):
 - `apps/*/code-viewer-c-liked`
 - `apps/*/logview`
+- `apps/*/sticky-note` (forked from [GNOME Tomboy](https://gitlab.gnome.org/Archive/tomboy/-/tree/master/data/icons?ref_type=heads), LGPLv2)
 - `mimetypes/*/text-x-readme`
 - `mimetypes/*/text-x-ini`
 
