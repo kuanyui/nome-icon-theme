@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 from typing import List, Optional, cast
@@ -13,7 +14,10 @@ WORKSPACE_PATH.mkdir(parents=True, exist_ok=True)
 
 def ensure_only_one_svg_in_workspace() -> Path:
     svg_files = [file for file in WORKSPACE_PATH.iterdir() if file.is_file() and file.name.endswith('.svg')]
-    if len(svg_files) == 1:
+    if len(svg_files) == 0:
+        print("You should place exactly 1 svg file (from GNOME project) in /workspace.")
+        sys.exit(2)
+    elif len(svg_files) == 1:
         return svg_files[0]
     else:
         print(f"Expect only one source todo svg file in /workspace, but got {len(svg_files)}")
