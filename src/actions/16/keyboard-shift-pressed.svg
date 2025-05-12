@@ -7,7 +7,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (unknown)"
+   inkscape:version="1.4.1 (unknown)"
    sodipodi:docname="keyboard-shift-pressed.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -234,7 +234,7 @@
       <g
          id="g13"
          style="display:inline;stroke:#ffffff;stroke-opacity:1;enable-background:new"
-         transform="translate(-0.03973756,-0.04735502)">
+         transform="translate(0.74960656,-21.69242)">
         <path
            style="fill:#000000;fill-opacity:0;stroke:#ffffff;stroke-width:1.57071;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
            d="M 10.924116,11.008569 H 8.5737068 v 3.164338 h 1.6069122 v 3.214565 H 7.7102908"
@@ -274,6 +274,12 @@
              id="path11" />
         </g>
       </g>
+      <path
+         style="display:inline;fill:none;stroke:#f9f9f9;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-stroke:none;enable-background:new"
+         d="m 6.5123123,10.5 h 2.9941981 l 0.00391,-1.9960938 H 11.5625 L 8.0000001,6.151523 4.3302184,8.4994391 h 2.1906149 z"
+         id="path8-3"
+         transform="matrix(1.5349618,0,0,1.6072829,4.8529074,0.51100222)"
+         sodipodi:nodetypes="cccccccc" />
     </g>
   </g>
 </svg>
