@@ -4,6 +4,8 @@ A fork of GNOME 2/3 default XDG icon theme, provided as SVG files. For people wh
 
 ## What is This?
 
+> TL;DR: This project is forked from GNOME Project's `gnome-icon-theme-3.12.0`
+
 I prefer the icons following Tango design guidelines over flat design. Yes I know flat design looks more unified but they are really hard to distinguish as icon.
 
 Tango design guidelines was promoted by Freedesktop.org, and was adopted by GNOME Project and Canonical Ubuntu in GNOME 2.x era.
@@ -70,21 +72,4 @@ Original download links of GNOME Icon Theme(for reference only):
   - Dwonloaded from [gitlat.gnome.org](https://gitlab.gnome.org/Archive/gnome-icon-theme-extras)
 
 # License
-GPLv3
-
-gnome-icon-theme-fork, Fork of GNOME 2/3 Default Icon Theme.
-
-Copyright (C) 2024, 2025 ono ono (kuanyui) <azazabc123 АТ GМАIL dot СОМ>
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+Same as `gnome-icon-theme`. See `COPYING` files for detailed information.
