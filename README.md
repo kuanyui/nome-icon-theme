@@ -1,10 +1,15 @@
-# gnome-icon-theme-fork
+# nome-icon-theme
 
-A fork of GNOME 2/3 default XDG icon theme, provided as SVG files. For people who feel nostalgic about Freedesktop Tango style icon.
+For people feeling nostalgic about Freedesktop Tango style icon, or those who are tired of the flat UI design trend that gained popularity since the 2010s.
+
+**Nome Icon Theme** is a fork of `gnome-icon-theme` (`3.12.0`), which was adopted as the default icon theme by GNOME Desktop Environment around **GNOME 2.10 (2005) ~ 3.10 (2013)**.
+
+The original `gnome-icon-theme` was already [discontinued since March 2014](https://download.gnome.org/sources/gnome-icon-theme/3.12/), `nome-icon-theme` forks from it and aims to:
+
+- Continue to maintain it (e.g. bugfix, add new icons)
+- Make all icons independent SVG files (For hi-res screens nowadays).
 
 ## What is This?
-
-> TL;DR: This project is forked from GNOME Project's `gnome-icon-theme-3.12.0`
 
 I prefer the icons following Tango design guidelines over flat design. Yes I know flat design looks more unified but they are really hard to distinguish as icon.
 
@@ -25,7 +30,7 @@ Tarball can be downloaded from [download.gnome.org](https://download.gnome.org/s
 > [!NOTE]
 > The directory structure of `/src` follows XDG icon theme standard, but it doesn't provide `index.theme`, you have to write by yourself if you want to use this project as a XDG-compatible icon theme. See my another project [tango-icons-collection](https://github.com/kuanyui/tango-icons-collection) for detailed information.
 
-## Differences against The Original GNOME Icon Theme
+## Differences against GNOME Icon Theme
 Besides the independence of icons of each sizes, other differences are, including but not limited to:
 
 ### Bug fixes
@@ -72,4 +77,5 @@ Original download links of GNOME Icon Theme(for reference only):
   - Dwonloaded from [gitlat.gnome.org](https://gitlab.gnome.org/Archive/gnome-icon-theme-extras)
 
 # License
-Same as `gnome-icon-theme`. See `COPYING` files for detailed information.
+Nome Icon Theme is distributed under the terms of either GNU LGPL v.3 or Creative Commons BY-SA 3.0 license.
+
