@@ -48,6 +48,6 @@ def create_svg_file(x: float, y: float, width: float, height: float, ori_dom: mi
 
 
 # Usage example
-# crop_svg('thirdparty/gnome-icon-theme-3.9.5/src/clocks.svg', 'dist/gnome_output')
-crop_svg('thirdparty/gnome-icon-theme-3.9.5/src/displays.svg', 'dist/gnome_output')
-# crop_svg('thirdparty/gnome-icon-theme-3.9.5/src/accessories-calculator.svg', 'dist/gnome_output')
+# crop_svg('raw/gnome-icon-theme-3.9.5/src/clocks.svg', 'dist/gnome_output')
+crop_svg('raw/gnome-icon-theme-3.9.5/src/displays.svg', 'dist/gnome_output')
+# crop_svg('raw/gnome-icon-theme-3.9.5/src/accessories-calculator.svg', 'dist/gnome_output')

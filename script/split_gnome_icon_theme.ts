@@ -98,9 +98,9 @@ async function createSvgFile(
 }
 
 export function main() {
-    // cropSvg('../thirdparty/gnome-icon-theme-3.9.5/src/clocks.svg', 'dist/gnome_output')
-    cropSvg('../thirdparty/gnome-icon-theme-3.9.5/src/displays.svg', 'dist/gnome_output')
-    // cropSvg('../thirdparty/gnome-icon-theme-3.9.5/src/accessories-calculator.svg', 'dist/gnome_output')
+    // cropSvg('../raw/gnome-icon-theme-3.9.5/src/clocks.svg', 'dist/gnome_output')
+    cropSvg('../raw/gnome-icon-theme-3.9.5/src/displays.svg', 'dist/gnome_output')
+    // cropSvg('../raw/gnome-icon-theme-3.9.5/src/accessories-calculator.svg', 'dist/gnome_output')
 }
 
 main()
