@@ -1,19 +1,23 @@
-# nome-icon-theme
+# Nome Icon Theme
+
+A modest renaissance of GNOME Icon Theme.
+
+**Nome Icon Theme** is a fork of `gnome-icon-theme` (`3.12.0`), which was adopted as the default icon theme by GNOME Desktop Environment around **GNOME 2.10 (2005) ~ 3.10 (2013)**. The original `gnome-icon-theme` was already [discontinued since March 2014](https://download.gnome.org/sources/gnome-icon-theme/3.12/), `nome-icon-theme` forks from it.
 
 For people feeling nostalgic about Freedesktop Tango style icon, or those who are tired of the flat UI design trend that gained popularity since the 2010s.
 
-**Nome Icon Theme** is a fork of `gnome-icon-theme` (`3.12.0`), which was adopted as the default icon theme by GNOME Desktop Environment around **GNOME 2.10 (2005) ~ 3.10 (2013)**.
+## What is this?
 
-The original `gnome-icon-theme` was already [discontinued since March 2014](https://download.gnome.org/sources/gnome-icon-theme/3.12/), `nome-icon-theme` forks from it and aims to:
+**Nome Icon Theme** aims to:
 
-- Continue to maintain it (e.g. bugfix, add new icons)
-- Make all icons independent SVG files (For hi-res screens nowadays).
+- Continue to maintain the original (e.g. bugfix, add new icons)
+- Make all icons independent SVG files (For hi-res screens, and modern desktop environments supporting XDG icon themes consisted of SVG files nowadays).
 
 ## What is This?
 
 I prefer the icons following Tango design guidelines over flat design. Yes I know flat design looks more unified but they are really hard to distinguish as icon.
 
-Tango design guidelines was promoted by Freedesktop.org, and was adopted by GNOME Project and Canonical Ubuntu in GNOME 2.x era.
+Tango Design Guidelines was promoted by Freedesktop.org, and was adopted by GNOME Project and Canonical Ubuntu in GNOME 2.x era.
 
 GNOME Project provides [gnome-icon-theme-3.12.0.tar.xz](https://download.gnome.org/sources/gnome-icon-theme/3.12/gnome-icon-theme-3.12.0.tar.xz), which is the last release of [gnome-icon-theme](https://download.gnome.org/sources/gnome-icon-theme/). but its SVG files are... multiple icons accumulated in one SVG file, and after some struggling, I found it's nerely impossible to extract the icons separately **as SVG** (instead of rasterized PNG) via script...
 
