@@ -266,7 +266,11 @@
        y2="97" />
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask8701">
+       id="mask8701"
+       x="307"
+       y="135"
+       width="16"
+       height="16">
       <rect
          y="135"
          x="307"

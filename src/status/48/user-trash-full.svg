@@ -76,7 +76,11 @@
     </linearGradient>
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask12808">
+       id="mask12808"
+       x="754"
+       y="50"
+       width="48"
+       height="49">
       <rect
          style="display:inline;opacity:1;fill:url(#pattern12812);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
          id="rect12810"
@@ -502,7 +506,11 @@
     </linearGradient>
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask12799">
+       id="mask12799"
+       x="744"
+       y="50"
+       width="60"
+       height="48">
       <rect
          style="opacity:1;fill:url(#pattern12803);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect12801"
@@ -941,7 +949,11 @@
        r="17.5" />
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask12799-3-1">
+       id="mask12799-3-1"
+       x="755.938"
+       y="49.9062"
+       width="48"
+       height="48">
       <rect
          style="fill:url(#pattern12803-2-4);fill-opacity:1;stroke:none"
          id="rect12801-4-0"

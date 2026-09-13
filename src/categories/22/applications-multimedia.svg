@@ -77,7 +77,11 @@
     </linearGradient>
     <mask
        id="mask7010"
-       maskUnits="userSpaceOnUse">
+       maskUnits="userSpaceOnUse"
+       x="-20"
+       y="0"
+       width="22"
+       height="22">
       <rect
          height="22"
          id="rect7012"

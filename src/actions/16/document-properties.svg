@@ -255,7 +255,11 @@
        gradientTransform="translate(-0.9375021,-910.9407)" />
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask7847">
+       id="mask7847"
+       x="299.074"
+       y="213.059"
+       width="16"
+       height="16">
       <rect
          id="rect7849"
          x="299.0625"

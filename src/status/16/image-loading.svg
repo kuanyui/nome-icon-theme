@@ -371,7 +371,11 @@
        y2="875.76428" />
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask14018">
+       id="mask14018"
+       x="700"
+       y="1124"
+       width="16"
+       height="16">
       <rect
          style="display:inline;fill:url(#linearGradient14022);fill-opacity:1;stroke:none"
          id="rect14020"
