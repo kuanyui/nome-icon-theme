@@ -470,7 +470,11 @@
        y2="97" />
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask8042">
+       id="mask8042"
+       x="306"
+       y="131"
+       width="24"
+       height="24">
       <rect
          style="color:#000000;fill:url(#linearGradient8046);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.12765563;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect8044"

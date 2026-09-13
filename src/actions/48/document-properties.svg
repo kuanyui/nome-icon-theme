@@ -395,7 +395,11 @@
        gradientTransform="translate(35.71875,-11.28125)" />
     <mask
        maskUnits="userSpaceOnUse"
-       id="mask7349">
+       id="mask7349"
+       x="335.821"
+       y="942.609"
+       width="48"
+       height="48">
       <rect
          style="display:inline;visibility:visible;fill:url(#linearGradient7353);fill-opacity:1;fill-rule:nonzero;stroke:none"
          width="30.25"
