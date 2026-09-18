@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="input-touchpad.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="6"
+     inkscape:cx="0"
+     inkscape:cy="0"
+     inkscape:window-width="800"
+     inkscape:window-height="600"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3760-7"
+       id="radialGradient3766-2"
+       cx="311"
+       cy="225.23932"
+       fx="311"
+       fy="225.23932"
+       r="8"
+       gradientTransform="matrix(1.4590081,0,0,1.0942561,-142.75153,-21.969492)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3760-7">
+      <stop
+         style="stop-color:#eeeeec;stop-opacity:1"
+         offset="0"
+         id="stop3762-0" />
+      <stop
+         style="stop-color:#d3d7cf;stop-opacity:1"
+         offset="1"
+         id="stop3764-5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3752-2">
+      <stop
+         style="stop-color:#d3d7cf;stop-opacity:1"
+         offset="0"
+         id="stop3754-2" />
+      <stop
+         style="stop-color:#babdb6;stop-opacity:1"
+         offset="1"
+         id="stop3756-8" />
+    </linearGradient>
+    <linearGradient
+       y2="238.1875"
+       x2="324.875"
+       y1="231.5"
+       x1="304.8125"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3794"
+       xlink:href="#linearGradient3752-2"
+       inkscape:collect="always"
+       gradientTransform="translate(0,-1)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="input-touchpad-16"
+       transform="translate(-303,-219)">
+      <path
+         style="color:#000000;fill:url(#linearGradient3794);fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 303.5,227.5 0,4 c 0,1.108 0.892,2 2,2 l 11,0 c 1.108,0 2,-0.892 2,-2 l 0,-4 c 0,1.108 -0.892,2 -2,2 l -11,0 c -1.108,0 -2,-0.892 -2,-2 z"
+         id="rect2846-2-3"
+         sodipodi:nodetypes="ccccccccc" />
+      <rect
+         style="color:#000000;fill:url(#radialGradient3766-2);fill-opacity:1;fill-rule:nonzero;stroke:#babdb6;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect2846"
+         width="15"
+         height="10"
+         x="303.5"
+         y="219.5"
+         rx="2"
+         ry="2" />
+      <rect
+         style="opacity:0.3;color:#000000;fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3694"
+         width="13"
+         height="12"
+         x="304.5"
+         y="220.5"
+         rx="1"
+         ry="1" />
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#eeeeec;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Abandoned Bitplane;-inkscape-font-specification:Abandoned Bitplane"
+         d="m 304,229.5 0,1 c 0,0.0541 0.002,0.1029 0,0.15625 0.45244,0.21377 0.96717,0.34375 1.5,0.34375 l 11,0 c 0.53283,0 1.04756,-0.12998 1.5,-0.34375 L 318,229.5 c -0.41577,0.30853 -0.93558,0.5 -1.5,0.5 l -11,0 c -0.56442,0 -1.08423,-0.19147 -1.5,-0.5 z"
+         id="rect2846-2"
+         sodipodi:nodetypes="cccccccccc" />
+      <rect
+         style="color:#000000;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3728"
+         width="1"
+         height="3"
+         x="310"
+         y="230"
+         rx="0"
+         ry="0" />
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3728-4"
+         width="1"
+         height="3"
+         x="311"
+         y="230"
+         rx="0"
+         ry="0" />
+    </g>
+  </g>
+</svg>
