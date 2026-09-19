@@ -80,6 +80,12 @@ Original download links of GNOME Icon Theme(for reference only):
   - Totally unused. For reference only.
   - Dwonloaded from [gitlat.gnome.org](https://gitlab.gnome.org/Archive/gnome-icon-theme-extras)
 
+# Acknowledgments
+## LLM Usage Disclosure
+- This project relys LLM agent to :
+  - Analyze and fix the compatibility issues of SVG files among various renderers (QtSVG, GNOME's `librsvg`, `resvg`)
+  - Crop icons from large source file into each independent icon file. (since 2026-09-19, because I think human-being should not waste life time on such task.)
+- There is **no** icon is drawn by LLM in any way.
+
 # License
 Nome Icon Theme is distributed under the terms of either GNU LGPL v.3 or Creative Commons BY-SA 3.0 license.
-
