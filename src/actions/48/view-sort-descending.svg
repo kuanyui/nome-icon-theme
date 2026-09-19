@@ -51,6 +51,28 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient10243-4-3-9-9-2"
+       inkscape:collect="always">
+      <stop
+         id="stop10245-7-3-9-2-5"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop10247-5-3-0-6-6"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10243-4-3-9-9-2"
+       id="linearGradient5390-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3749771,0,0,1.3749771,62.37758,-206.24117)"
+       x1="126.86459"
+       y1="382"
+       x2="134.99556"
+       y2="382" />
     <mask
        maskUnits="userSpaceOnUse"
        id="mask5386-3"
@@ -67,28 +89,6 @@
          x="204.00073"
          y="297.00046" />
     </mask>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10243-4-3-9-9-2"
-       id="linearGradient5390-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.3749771,0,0,1.3749771,62.37758,-206.24117)"
-       x1="126.86459"
-       y1="382"
-       x2="134.99556"
-       y2="382" />
-    <linearGradient
-       id="linearGradient10243-4-3-9-9-2"
-       inkscape:collect="always">
-      <stop
-         id="stop10245-7-3-9-2-5"
-         offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
-      <stop
-         id="stop10247-5-3-0-6-6"
-         offset="1"
-         style="stop-color:#000000;stop-opacity:1" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4397-0-4-8-4-2-8-6-2-4-7-6-3">

@@ -51,16 +51,6 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
-    <radialGradient
-       r="1.5"
-       fy="93.5"
-       fx="319.5"
-       cy="93.5"
-       cx="319.5"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient5137"
-       xlink:href="#linearGradient9760-6-0-9"
-       inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient9760-6-0-9">
@@ -73,6 +63,37 @@
          offset="1"
          id="stop9764-4-1-2" />
     </linearGradient>
+    <radialGradient
+       r="1.5"
+       fy="93.5"
+       fx="319.5"
+       cy="93.5"
+       cx="319.5"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient5137"
+       xlink:href="#linearGradient9760-6-0-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4384-7">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4386-3" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4388-9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4384-7"
+       id="linearGradient4141"
+       gradientUnits="userSpaceOnUse"
+       x1="46"
+       y1="189"
+       x2="42"
+       y2="189" />
     <mask
        maskUnits="userSpaceOnUse"
        id="mask4133"
@@ -100,36 +121,6 @@
     </mask>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4384-7"
-       id="linearGradient4141"
-       gradientUnits="userSpaceOnUse"
-       x1="46"
-       y1="189"
-       x2="42"
-       y2="189" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4384-7">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop4386-3" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1"
-         offset="1"
-         id="stop4388-9" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4345-5"
-       id="linearGradient4479"
-       x1="40"
-       y1="192.32227"
-       x2="40"
-       y2="179.65271"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient4345-5">
       <stop
          style="stop-color:#9c7f00;stop-opacity:1"
@@ -142,13 +133,13 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4563"
-       id="linearGradient4420"
-       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient4345-5"
+       id="linearGradient4479"
        x1="40"
-       y1="190.97411"
+       y1="192.32227"
        x2="40"
-       y2="170.57062" />
+       y2="179.65271"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="linearGradient4563">
       <stop
@@ -170,13 +161,13 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3821"
-       id="linearGradient4422"
+       xlink:href="#linearGradient4563"
+       id="linearGradient4420"
        gradientUnits="userSpaceOnUse"
-       x1="54"
-       y1="181.54662"
-       x2="54"
-       y2="188.85912" />
+       x1="40"
+       y1="190.97411"
+       x2="40"
+       y2="170.57062" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3821">
@@ -189,6 +180,15 @@
          offset="1"
          id="stop3825" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3821"
+       id="linearGradient4422"
+       gradientUnits="userSpaceOnUse"
+       x1="54"
+       y1="181.54662"
+       x2="54"
+       y2="188.85912" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3821"
