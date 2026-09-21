@@ -97,3 +97,5 @@ The following icons were taken from other GNOME projects, not from gnome-icon-th
 | Icon | Source | License |
 |---|---|---|
 | `apps/*/logviewer.svg`, `raw/done_all/logviewer.svg` | [gnome-logs `data/icons/gnome-logs.svg`](https://github.com/GNOME/gnome-logs/blob/gnome-3-12/data/icons/gnome-logs.svg), commit 76e13ad7 (2013) by Jakub Steiner | GPL-3.0, same as gnome-logs; the SVG states no separate license |
+| `apps/*/sticky-note.svg` | [Tomboy `data/icons/hicolor_apps_scalable_tomboy.svg`](https://gitlab.gnome.org/Archive/tomboy/-/blob/master/data/icons/hicolor_apps_scalable_tomboy.svg) (2006) by Jakub Steiner | GPL-2.0, as stated inside the source SVG (Tomboy itself is LGPL-2.1) |
+| `apps/*/tomboy-tag.svg` | [Tomboy `data/images/tag.svg`](https://gitlab.gnome.org/Archive/tomboy/-/blob/master/data/images/tag.svg) (2007) by Jakub Steiner | LGPL-2.1, same as Tomboy; the SVG states no separate license |
