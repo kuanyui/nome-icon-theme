@@ -89,3 +89,11 @@ Original download links of GNOME Icon Theme(for reference only):
 
 # License
 Nome Icon Theme is distributed under the terms of either GNU LGPL v.3 or Creative Commons BY-SA 3.0 license.
+
+## Exceptions: icons taken from other GNOME projects
+
+The following icons were taken from other GNOME projects, not from gnome-icon-theme. Their license is the one stated inside each SVG file (the `SPDX-License-Identifier` header), which may differ from the above.
+
+| Icon | Source | License |
+|---|---|---|
+| `apps/*/logviewer.svg`, `raw/done_all/logviewer.svg` | [gnome-logs `data/icons/gnome-logs.svg`](https://github.com/GNOME/gnome-logs/blob/gnome-3-12/data/icons/gnome-logs.svg), commit 76e13ad7 (2013) by Jakub Steiner | GPL-3.0, same as gnome-logs; the SVG states no separate license |
