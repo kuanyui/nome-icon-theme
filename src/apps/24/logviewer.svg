@@ -34,23 +34,13 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Optical Drive</dc:title>
-        <dc:creator>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:creator>
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title />
-          </cc:Agent>
-        </dc:contributor>
         <dc:source />
         <cc:license
            rdf:resource="" />
         <dc:subject>
           <rdf:Bag />
         </dc:subject>
-      </cc:Work>
+      <dc:creator><cc:Agent><dc:title>Jakub Steiner</dc:title></cc:Agent></dc:creator><dc:contributor><cc:Agent><dc:title>kuanyu</dc:title></cc:Agent></dc:contributor><dc:source>gnome-logs (GNOME 3.12) data/icons/gnome-logs.svg</dc:source></cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview

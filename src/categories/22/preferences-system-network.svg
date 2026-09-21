@@ -747,11 +747,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Lapo Calamandrei</dc:title>
-          </cc:Agent>
-        </dc:creator>
         <dc:source />
         <cc:license
            rdf:resource="" />
@@ -777,12 +772,7 @@
         <dc:language />
         <dc:coverage />
         <dc:description />
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title>Jakub Steiner</dc:title>
-          </cc:Agent>
-        </dc:contributor>
-      </cc:Work>
+      <dc:creator><cc:Agent><dc:title>Lapo Calamandrei</dc:title></cc:Agent></dc:creator><dc:contributor><cc:Agent><dc:title>Jakub Steiner, kuanyu</dc:title></cc:Agent></dc:contributor></cc:Work>
     </rdf:RDF>
   </metadata>
   <g

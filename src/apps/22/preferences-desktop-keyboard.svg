@@ -645,24 +645,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:creator>
-          <cc:Agent>
-            <dc:title>Lapo Calamandrei</dc:title>
-          </cc:Agent>
-        </dc:creator>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>sheet</rdf:li>
             <rdf:li>paper</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:contributor>
-          <cc:Agent>
-            <dc:title>Jakub Steiner</dc:title>
-          </cc:Agent>
-        </dc:contributor>
         <dc:description>with a HUGE help from Jakub</dc:description>
-      </cc:Work>
+      <dc:creator><cc:Agent><dc:title>Lapo Calamandrei</dc:title></cc:Agent></dc:creator><dc:contributor><cc:Agent><dc:title>Jakub Steiner, kuanyu</dc:title></cc:Agent></dc:contributor></cc:Work>
     </rdf:RDF>
   </metadata>
   <g
