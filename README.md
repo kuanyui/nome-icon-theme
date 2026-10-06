@@ -27,9 +27,13 @@ Tarball can be downloaded from [download.gnome.org](https://download.gnome.org/s
 > [!NOTE]
 > The directory structure of `/src` follows XDG icon theme standard, but it doesn't provide `index.theme`, you have to write by yourself if you want to use this project as a XDG-compatible icon theme. See my another project [tango-icons-collection](https://github.com/kuanyui/tango-icons-collection) for detailed information.
 
+At last, I found [GNOME/adwaita-icon-theme](https://github.com/GNOME/adwaita-icon-theme) is just actually built on top of `gnome-icon-theme`, and it contains all history of GNOME Icon Theme. To preserve as much history and credits as possible, I cherry-picked all my commits onto the `3.12.0` (`a5d6b00da2edf22913305e9af337c4fe797eb11a`) of `adwaita-icon-theme`.
+
 ## ![](src/actions/32/edit-find.svg) Differences against GNOME Icon Theme
 
-Besides the independence of icons of each sizes, other differences are, including but not limited to:
+All sizes of icons are cropped into independent files.
+
+Besides, other differences including but not limited to:
 
 ### ![](src/categories/22/applications-development.svg) Bug fixes
 Some icons have some problems (e.g. Wrong colors) so fixed them manually:
@@ -53,7 +57,11 @@ This project also contains some icons I drew (and some of them are forked from U
 - `mimetypes/*/text-x-ini`
 
 ## ![](src/mimetypes/32/package-x-generic.svg) References
-Original download links of GNOME Icon Theme(for reference only):
+
+- [GNOME/adwaita-icon-theme](https://github.com/GNOME/adwaita-icon-theme)
+
+<details>
+<summary>Original download links of GNOME Icon Theme(for reference only):</summary>
 
 - [gnome-icon-theme-2.20.0.tar.bz2](https://download.gnome.org/sources/gnome-icon-theme/2.20/gnome-icon-theme-2.20.0.tar.bz2)
   - Downloaded from [download.gnome.org](https://download.gnome.org/sources/gnome-icon-theme/2.20/)
@@ -72,7 +80,9 @@ Original download links of GNOME Icon Theme(for reference only):
 
 - [gnome-icon-theme-extras](https://gitlab.gnome.org/Archive/gnome-icon-theme-extras)
   - Totally unused. For reference only.
-  - Dwonloaded from [gitlat.gnome.org](https://gitlab.gnome.org/Archive/gnome-icon-theme-extras)
+  - Downloaded from [gitlat.gnome.org](https://gitlab.gnome.org/Archive/gnome-icon-theme-extras)
+
+</details>
 
 # ![](src/emotes/48/face-smile.svg) Acknowledgments
 ## ![](src/apps/32/utilities-terminal.svg) LLM Usage Disclosure
