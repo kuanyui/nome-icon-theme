@@ -1,4 +1,4 @@
-# Nome Icon Theme
+# ![](src/apps/48/preferences-desktop-theme.svg) Nome Icon Theme
 
 A modest renaissance of GNOME Icon Theme.
 
@@ -6,14 +6,7 @@ A modest renaissance of GNOME Icon Theme.
 
 For people feeling nostalgic about Freedesktop Tango style icon, or those who are tired of the flat UI design trend that gained popularity since the 2010s.
 
-## What is this?
-
-**Nome Icon Theme** aims to:
-
-- Continue to maintain the original (e.g. bugfix, add new icons)
-- Make all icons independent SVG files (For hi-res screens, and modern desktop environments supporting XDG icon themes consisted of SVG files nowadays).
-
-## What is This?
+## ![](src/apps/32/help-browser.svg) What is this?
 
 I prefer the icons following Tango design guidelines over flat design. Yes I know flat design looks more unified but they are really hard to distinguish as icon.
 
@@ -34,23 +27,24 @@ Tarball can be downloaded from [download.gnome.org](https://download.gnome.org/s
 > [!NOTE]
 > The directory structure of `/src` follows XDG icon theme standard, but it doesn't provide `index.theme`, you have to write by yourself if you want to use this project as a XDG-compatible icon theme. See my another project [tango-icons-collection](https://github.com/kuanyui/tango-icons-collection) for detailed information.
 
-## Differences against GNOME Icon Theme
+## ![](src/actions/32/edit-find.svg) Differences against GNOME Icon Theme
+
 Besides the independence of icons of each sizes, other differences are, including but not limited to:
 
-### Bug fixes
+### ![](src/categories/22/applications-development.svg) Bug fixes
 Some icons have some problems (e.g. Wrong colors) so fixed them manually:
 - `categories/{16,22}/applications-science`
 - `actions/16/system-search`
 
-### Vectorization
+### ![](src/mimetypes/22/image-x-generic.svg) Vectorization
 Some icons provide only rasterized/pixmap version in some sizes, so redraw them manually:
 - `categorizes/16/applications-graphics`
 
-### Color adjust
+### ![](src/categories/22/applications-graphics.svg) Color adjust
 The color of some icons are adjusted according to my personal preference:
 - `apps/*/preferences-system-windows`
 
-### New icons
+### ![](src/actions/22/document-new.svg) New icons
 This project also contains some icons I drew (and some of them are forked from Ubuntu Humanity and GNOME Icon Theme):
 - `apps/*/code-viewer-c-liked`
 - `apps/*/logview`
@@ -58,7 +52,7 @@ This project also contains some icons I drew (and some of them are forked from U
 - `mimetypes/*/text-x-readme`
 - `mimetypes/*/text-x-ini`
 
-## References
+## ![](src/mimetypes/32/package-x-generic.svg) References
 Original download links of GNOME Icon Theme(for reference only):
 
 - [gnome-icon-theme-2.20.0.tar.bz2](https://download.gnome.org/sources/gnome-icon-theme/2.20/gnome-icon-theme-2.20.0.tar.bz2)
@@ -80,17 +74,17 @@ Original download links of GNOME Icon Theme(for reference only):
   - Totally unused. For reference only.
   - Dwonloaded from [gitlat.gnome.org](https://gitlab.gnome.org/Archive/gnome-icon-theme-extras)
 
-# Acknowledgments
-## LLM Usage Disclosure
+# ![](src/emotes/48/face-smile.svg) Acknowledgments
+## ![](src/apps/32/utilities-terminal.svg) LLM Usage Disclosure
 - This project relys LLM agent to :
   - Analyze and fix the compatibility issues of SVG files among various renderers (QtSVG, GNOME's `librsvg`, `resvg`)
   - Crop icons from large source file into each independent icon file. (since 2026-09-19, because I think human-being should not waste life time on such task.)
 - There is **no** icon is drawn by LLM in any way.
 
-# License
+# ![](src/mimetypes/48/application-certificate.svg) License
 Nome Icon Theme is distributed under the terms of either GNU LGPL v.3 or Creative Commons BY-SA 3.0 license.
 
-## Exceptions: icons taken from other GNOME projects
+## ![](src/emblems/32/emblem-important.svg) Exceptions: icons taken from other GNOME projects
 
 The following icons were taken from other GNOME projects, not from gnome-icon-theme. Their license is the one stated inside each SVG file (the `SPDX-License-Identifier` header), which may differ from the above.
 
