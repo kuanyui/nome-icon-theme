@@ -14,18 +14,10 @@ Tango Design Guidelines was promoted by Freedesktop.org, and was adopted by GNOM
 
 GNOME Project provides [gnome-icon-theme-3.12.0.tar.xz](https://download.gnome.org/sources/gnome-icon-theme/3.12/gnome-icon-theme-3.12.0.tar.xz), which is the last release of [gnome-icon-theme](https://download.gnome.org/sources/gnome-icon-theme/). but its SVG files are... multiple icons accumulated in one SVG file, and after some struggling, I found it's nerely impossible to extract the icons separately **as SVG** (instead of rasterized PNG) via script...
 
-> I've struggling with SVG.js but its `rbox()` cannot get correct bounding rectangle of the icons...
-> Python even don't have any mature enough SVG library.
-> Also tried to write an Inkscape extension to do this but... failed.
-
-So this project is to... manually separate these icons of variable sizes in SVG into multiple independent SVG files...
-
-`3.12.0` Seems to be the last version of `gnome-icon-theme`.
-
-Tarball can be downloaded from [download.gnome.org](https://download.gnome.org/sources/gnome-icon-theme/3.12/)
+> In the beginning, I've struggling with SVG.js but its `rbox()` cannot get correct bounding rectangle of the icons... Python even don't have any mature enough SVG library. Also tried to write an Inkscape extension to do this but... failed. So I had no choice but to use Inkscape to manually separate these icons of variable sizes in SVG into multiple independent SVG files... But since around 2026-09-19, I began to use LLM agent to crop & extract the rest.
 
 > [!NOTE]
-> The directory structure of `/src` follows XDG icon theme standard, but it doesn't provide `index.theme`, you have to write by yourself if you want to use this project as a XDG-compatible icon theme. See my another project [tango-icons-collection](https://github.com/kuanyui/tango-icons-collection) for detailed information.
+> The directory structure of `/src` follows XDG icon theme standard, but it doesn't provide `index.theme`, you have to write by yourself if you want to use this project as a XDG-compatible icon theme. See my another project [tango-remixer](https://github.com/kuanyui/tango-remixer) for detailed information.
 
 At last, I found [GNOME/adwaita-icon-theme](https://github.com/GNOME/adwaita-icon-theme) is just actually built on top of `gnome-icon-theme`, and it contains all history of GNOME Icon Theme. To preserve as much history and credits as possible, I cherry-picked all my commits onto the `3.12.0` (`a5d6b00da2edf22913305e9af337c4fe797eb11a`) of `adwaita-icon-theme`.
 
