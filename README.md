@@ -6,6 +6,11 @@ A modest renaissance of GNOME Icon Theme.
 
 For people feeling nostalgic about Freedesktop Tango style icon, or those who are tired of the flat UI design trend that gained popularity since the 2010s.
 
+> [!TIP]
+> To use these icons in a Qt (or GTK) project, see [Tango Remixer](https://kuanyui.github.io/tango-remixer/).
+>
+> You can also browse all icons in its [icon viewer](https://kuanyui.github.io/tango-remixer/viewer/).
+
 ## ![](src/apps/32/help-browser.svg) What is this?
 
 I prefer the icons following Tango design guidelines over flat design. Yes I know flat design looks more unified but they are really hard to distinguish as icon.
