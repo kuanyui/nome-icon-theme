@@ -18,7 +18,6 @@ SPDX_BY_NAME: Dict[str, str] = {
     "logviewer.svg": "GPL-3.0-or-later",    # gnome-logs
     "sticky-note.svg": "GPL-2.0-only",      # Tomboy app icon (license stated inside the source SVG)
     "tomboy-tag.svg": "LGPL-2.1-only",      # Tomboy
-    "text-x-readme.svg": "GPL-2.0-only",    # Humanity, see FIXME.md
 }
 HEAD_SCAN_BYTES: int = 1024
 
